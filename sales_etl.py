@@ -9,19 +9,34 @@ load_dotenv()
 
 # === Extract ===
 def extract_latest_csv(folder_path="data_lake/raw"):
-    files = sorted(os.listdir(folder_path))
-    latest_file = files[-1]
+    # Sort the files by their name in reverse order
+    files = sorted([f for f in os.listdir(folder_path) if f.endswith('.csv') and 'sales_' in f], reverse=False)
+    print(f"Available files: {files}")  # Debug print to check which files are found
+    if not files:
+        print("No valid CSV files found.")
+        return None
+    latest_file = files[0]
     filepath = os.path.join(folder_path, latest_file)
-    print(f"Extracting from: {filepath}")
+    print(f"Extracting from: {filepath}")  # Show which file is being extracted
     return pd.read_csv(filepath)
 
 # === Transform ===
 def transform_data(df):
+    # Check if 'region' and 'product' columns exist
+    if 'region' not in df.columns:
+        raise KeyError("'region' column is missing from the CSV file")
+    if 'product' not in df.columns:
+        raise KeyError("'product' column is missing from the CSV file")
+    
+    # Clean up 'region' and 'product' columns
     df["region"] = df["region"].str.title().str.strip()
     df["product"] = df["product"].str.title().str.strip()
 
     # Ensure that the timestamp is correctly formatted (if it's a string, convert to datetime)
-    df["timestamp"] = pd.to_datetime(df["timestamp"], errors='coerce')
+    if 'timestamp' in df.columns:
+        df["timestamp"] = pd.to_datetime(df["timestamp"], errors='coerce')
+    else:
+        raise KeyError("'timestamp' column is missing from the CSV file")
     
     return df
 
@@ -80,6 +95,9 @@ def load_to_postgres(df):
 
 # === Run ===
 if __name__ == "__main__":
-    df = extract_latest_csv()
-    df = transform_data(df)
-    load_to_postgres(df)
+    try:
+        df = extract_latest_csv()
+        df = transform_data(df)
+        load_to_postgres(df)
+    except KeyError as e:
+        print(f"Missing expected column: {e}")
