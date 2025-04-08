@@ -1,0 +1,1001 @@
+order_id,customer_name,region,product,quantity,unit_price,total_price,timestamp
+7bc5f9da-88ca-48d7-b386-ed7ae4165592,Felicia Huber,San Antonio,Falafel,5,11.29,56.45,2025-04-04 21:36:33
+de20e9dd-7f42-4e38-9d01-261a71b4fc4f,Kelli Duncan,Austin,Baklava,3,7.62,22.86,2025-01-30 21:38:01
+9c4b3d62-0b2a-45c8-a361-584e668a27b9,Kenneth Miller,San Antonio,Shawarma,2,8.84,17.68,2025-01-04 20:17:25
+10d63393-ba12-4d74-aec4-9b40b1b7e4ae,Kelsey Williams,Houston,Falafel,5,5.7,28.5,2025-01-31 03:59:21
+96114a4e-d9e2-4310-8ca3-546359d62646,Mark Hooper,Austin,Falafel,5,12.38,61.9,2025-03-20 22:15:42
+0579e729-6d00-40e9-b776-b0f81f8ade4a,Mark Lindsey,San Antonio,Shawarma,1,9.74,9.74,2025-03-07 15:37:25
+cd77c53b-3ba2-4ae8-9cdf-df1efe3462ce,Linda Smith,Austin,Salad,1,14.86,14.86,2025-02-26 21:42:54
+f69ac4e4-077d-4738-8844-892cc8d14c66,Becky Murray,Houston,Salad,5,5.32,26.6,2025-03-10 02:44:44
+1d0b9446-8acd-4ace-9b5f-4bdb6db17365,Robert Morgan,Austin,Baklava,2,5.13,10.26,2025-03-13 16:31:06
+89a5965a-01e2-4e93-b61e-d17a665d9370,Douglas Roman,Houston,Falafel,4,12.69,50.76,2025-01-28 13:56:26
+f6c2452e-9fe8-4b5a-a905-404d8ddf9fcb,Michael Nguyen,Austin,Falafel,1,8.75,8.75,2025-01-20 09:27:12
+68ae33e3-ea00-42fe-a8bc-2c734273023a,Elizabeth Jefferson,Dallas,Salad,3,8.91,26.73,2025-02-28 12:36:53
+7d1e26ae-2723-4d87-b8bf-c52ab8805b28,Toni Ortiz,Dallas,Shawarma,1,9.42,9.42,2025-02-07 05:09:00
+9c6e80f0-b300-4005-b355-cd9b1cd5c481,Kenneth Campbell,Austin,Shawarma,3,5.13,15.39,2025-02-21 14:42:42
+625fcbde-ce0d-4c91-ac62-be8d99913382,Casey Chung,Houston,Salad,2,10.17,20.34,2025-02-10 07:09:48
+835bd346-fea9-4aa1-8a6b-16c1d584fe9b,William Carson,Austin,Baklava,2,11.4,22.8,2025-03-22 08:13:50
+6409b1a6-9949-4d8d-a179-2f8d40dd6a6e,Julie Moss,Houston,Salad,1,13.85,13.85,2025-02-08 20:33:45
+ffb27866-554b-48f8-95fe-9c0f9c528f7d,Cindy Ward,Dallas,Shawarma,1,6.21,6.21,2025-03-06 07:30:28
+898d63c1-82fc-4982-b30e-1793c24a395c,Robert Martin,Houston,Baklava,2,13.36,26.72,2025-01-09 06:57:09
+3413fa37-7102-4b08-9c9f-a05c7d36cb45,Luke Leach,Austin,Shawarma,3,14.78,44.34,2025-04-04 14:15:45
+2aa49008-a15d-440a-950b-6a66d5be2aaa,Linda Weiss,Dallas,Gyro,1,14.05,14.05,2025-03-28 09:50:45
+6bfc52b1-adb0-4bd0-bbde-a303c80418d4,Jeffrey Keller,Austin,Salad,1,14.22,14.22,2025-04-03 17:54:45
+e1de4a47-3760-4ee3-b02b-10cbb77144c9,Patricia Gilbert,Dallas,Baklava,4,6.35,25.4,2025-03-01 04:08:25
+41186f8a-ac53-401e-a8fe-32f1e07684a2,Erin Novak,Austin,Salad,3,10.5,31.5,2025-03-06 20:50:42
+11dd7ada-93da-445d-ae57-72cdf7f5999e,Erica Gardner,Dallas,Salad,2,11.98,23.96,2025-01-31 14:33:32
+cee72de9-db8c-4999-b02f-a875157fa398,Brandon Vargas,Houston,Baklava,1,12.67,12.67,2025-03-31 04:04:01
+cb402eeb-eff4-4581-ac9b-150d46e3a235,Cynthia Harrison,Houston,Shawarma,3,9.76,29.28,2025-02-14 15:16:30
+13c75ee7-8903-496f-8570-12cf6cfac817,Patrick Hammond,San Antonio,Gyro,1,6.31,6.31,2025-02-11 01:56:26
+326e0b7c-f893-4947-9e7e-f9fd6869b995,Stanley Chen,Houston,Shawarma,4,11.35,45.4,2025-04-01 14:20:34
+5e24fd21-5a11-4328-9648-06b9079c0c3c,Michelle Wilson,Dallas,Shawarma,3,12.32,36.96,2025-02-17 04:17:47
+172d9695-2ff8-4e4b-a89e-cf9bec7fd74f,Nathan Nelson,San Antonio,Gyro,4,10.22,40.88,2025-02-05 06:07:39
+a4218533-c8b2-43eb-a53e-5bb4c2d07a29,Justin Chambers,San Antonio,Falafel,1,5.58,5.58,2025-03-21 04:00:52
+3b6ca8c1-6a72-4b7a-8508-b952c37da639,Gina Andrews,Dallas,Falafel,5,12.86,64.3,2025-03-13 12:31:10
+114a42a7-5ddd-4759-b48e-e325a27d83cf,Mandy Johnson,Austin,Gyro,4,13.23,52.92,2025-02-09 16:39:04
+a4f07746-3042-4c56-8874-e96958754331,Roy Lawrence,Houston,Gyro,4,10.61,42.44,2025-03-13 15:32:10
+4c6ee909-2794-4ccf-ae9c-58118fb14860,Kathryn Petersen,Houston,Gyro,2,13.03,26.06,2025-01-12 09:29:35
+e57e6022-9c89-42e2-9eea-4838e7568dcd,Cathy Johnson,Houston,Gyro,3,10.96,32.88,2025-03-07 11:37:52
+d47698cb-a19c-46bb-abe9-e02cfe73b305,Shawn Smith,Houston,Shawarma,5,6.19,30.95,2025-02-13 21:37:57
+949bd850-8fe1-462f-add3-2bc0298e1a40,Justin Nguyen,Dallas,Shawarma,4,10.6,42.4,2025-03-04 12:02:56
+d1f15aa3-f7c1-4d3e-b259-1429b2d87440,Kelly Hobbs,Houston,Falafel,5,7.21,36.05,2025-01-03 19:47:39
+6e0cd991-a8c7-4356-816f-79750c1135ee,Joshua Ryan,Houston,Salad,1,14.48,14.48,2025-01-31 16:00:32
+48915fe4-e2b2-4d62-8946-524159b45331,Elizabeth Johnson,San Antonio,Baklava,1,13.72,13.72,2025-01-03 09:31:28
+5022c688-29ce-4465-93d3-6d2109aafa92,Carla Simpson,Houston,Salad,3,6.64,19.92,2025-02-11 00:08:22
+f4688939-916a-4bbc-b457-61255270c1d3,Amanda Bullock,Austin,Salad,3,9.97,29.91,2025-03-03 21:11:49
+87b4ae28-6825-4528-9e6a-7b5570891512,Tracy Martin,San Antonio,Baklava,1,5.56,5.56,2025-03-05 18:14:10
+d654afc9-29a3-4aa8-9fd5-99bc58ff5c7a,Ian Delgado,San Antonio,Shawarma,2,5.06,10.12,2025-01-31 18:42:10
+bbaadc6f-52ab-4fb0-88b3-44c2654691a3,Sharon Young,Houston,Falafel,4,13.67,54.68,2025-03-22 12:24:49
+c5ea0aab-752e-487f-b9d4-89aa014e345b,Fernando Johnson,Austin,Falafel,4,13.02,52.08,2025-03-18 12:43:26
+37158eef-e955-4d82-b2b6-59cb3217c7b5,Kimberly Gates,Dallas,Falafel,4,8.02,32.08,2025-01-18 17:09:07
+7272783f-8376-40b2-a1b6-d6c6d0110946,Ethan Wright,Dallas,Baklava,3,10.41,31.23,2025-01-25 22:00:30
+853712d6-936c-4d1b-984e-6dc3d12c4de9,Jonathan Munoz,Houston,Salad,4,7.06,28.24,2025-03-09 02:45:37
+431aab64-eda5-4ecd-84c2-4a1d3f349bbd,Bradley George,San Antonio,Salad,1,9.73,9.73,2025-03-10 11:22:35
+66ab8770-46c8-4c12-9a3b-5292ad99d96d,Cynthia Gonzalez,Houston,Baklava,3,11.23,33.69,2025-03-31 11:18:03
+0baad795-16cf-41a3-a65b-59248fb034b5,Judy Johnson,Houston,Shawarma,2,8.71,17.42,2025-02-05 11:23:51
+02c01e10-dbc5-4ddb-92d1-3a9fc941c42d,Heather Cooper,San Antonio,Gyro,2,14.87,29.74,2025-03-17 20:54:15
+2f413c78-00ec-4b15-959b-f017781bd0f5,Joseph Rodriguez,Dallas,Falafel,5,8.31,41.55,2025-02-11 00:13:08
+808c1baf-ff14-4576-827a-49bf42e7dc43,Eric Reynolds,Dallas,Shawarma,1,8.13,8.13,2025-03-26 22:39:33
+6e328831-d04a-479f-b3d4-d9ff7c4ced3c,Michael Howell,Houston,Gyro,1,14.87,14.87,2025-01-20 14:59:09
+47dc7bf0-cc24-4a2c-aab0-1862810b19e0,Jenna Silva,Houston,Salad,3,12.04,36.12,2025-03-09 09:11:37
+d711eb34-9a2c-4df1-8cb7-55b024e59580,Christopher Pacheco,Austin,Baklava,1,13.02,13.02,2025-01-05 03:37:31
+85fbf98d-66b5-4cef-8c7c-42e66b7abd48,Peter Davis,Austin,Shawarma,2,11.66,23.32,2025-03-12 04:35:24
+a50ec787-251b-4856-b7ed-2c58f3d4f357,Matthew Prince,Austin,Shawarma,5,5.47,27.35,2025-02-28 11:01:30
+f698895f-ad79-43fb-a51b-4db9cb590fa9,Miguel Patel,Houston,Falafel,1,5.29,5.29,2025-02-16 02:45:51
+a5a6db64-0451-4a35-b1e5-b7aee4396bef,James Cooper,Austin,Falafel,2,10.7,21.4,2025-02-10 05:12:50
+d0aa02d9-a1e6-43d8-9b4c-a8bddb210443,Cindy Zimmerman,San Antonio,Baklava,2,6.04,12.08,2025-02-05 21:48:36
+4524005a-2fc2-4709-a29f-c9d6e9ff00ff,Lauren Cole,Austin,Baklava,5,7.25,36.25,2025-02-21 18:36:05
+df1217c2-dc65-452c-92e9-cfce5bff53e3,Cody Rodgers,Dallas,Gyro,1,13.6,13.6,2025-01-04 18:23:43
+cca57661-483c-4ced-9dfe-afa4a45fd29c,Daniel Oneill,Houston,Falafel,2,7.55,15.1,2025-03-06 13:11:06
+aa7b0712-d965-4fa8-bd8d-8723ebf9c635,Daniel Ramsey,Dallas,Shawarma,5,13.69,68.45,2025-01-15 21:05:26
+7678296c-a191-4df3-b7b4-bf310c17506d,Erin Allen,Dallas,Baklava,3,8.9,26.7,2025-03-26 04:59:03
+b9f69504-d823-40b2-a77b-d8ede754f619,Jeffrey Campbell,Dallas,Falafel,3,5.8,17.4,2025-02-20 10:56:32
+cdb21374-bcd9-43fc-8df1-f57888170c2d,Mr. Justin Vaughn Jr.,Austin,Salad,3,14.97,44.91,2025-02-12 05:49:49
+d14980b4-0e58-4ac8-9380-5d31475295c1,Megan Ellis,San Antonio,Shawarma,1,5.12,5.12,2025-02-15 05:59:12
+5dea64f1-2c4d-4091-b1ef-4c90a66965db,Robert Valenzuela,Houston,Gyro,2,10.2,20.4,2025-02-10 20:01:14
+3a44571c-4155-437a-ac1c-9083a17801ba,Stacy Patrick,Dallas,Falafel,2,5.8,11.6,2025-02-19 15:54:27
+3f4dc38c-89c2-4505-80c3-50e8d7ac27d1,Ruth Price,Houston,Salad,2,5.53,11.06,2025-02-17 07:57:03
+f871495e-7582-4b81-80bf-35df696f051e,Timothy Hood,San Antonio,Falafel,3,5.9,17.7,2025-04-05 18:16:29
+b1f7e59c-9c95-439e-96b7-74a1ff5a80b2,Matthew Dawson,Austin,Shawarma,2,10.48,20.96,2025-01-10 22:28:38
+92bd669c-92d0-49cd-92f2-c433eb4753fd,Sue Dalton,Houston,Gyro,3,8.72,26.16,2025-01-28 08:28:40
+3ef84cb1-af13-4b93-9beb-52beaca1f6d9,Brandy Lane,Dallas,Shawarma,5,11.14,55.7,2025-02-10 07:40:38
+f880ac40-6772-4330-b567-20d5784af0bb,Timothy Ramsey,Dallas,Shawarma,4,14.12,56.48,2025-02-01 00:28:51
+99ef4591-7d48-41b3-99fe-c83c6d1fea8a,Kevin Hester,Austin,Gyro,1,12.82,12.82,2025-03-15 18:57:43
+3c2f7439-5251-483f-a9ed-8c7f5b8cdbb2,James Hernandez,San Antonio,Baklava,4,12.83,51.32,2025-01-29 02:42:41
+a3ff9f41-96de-4c84-969f-b2fafb233f10,Catherine Silva,Houston,Baklava,4,5.67,22.68,2025-03-13 13:33:30
+934179bd-eb21-4901-a6a2-6e7b4483a416,Nicholas Hodges,Austin,Salad,3,12.98,38.94,2025-04-02 13:28:05
+da3b6b58-7138-4815-a730-2396c0de7816,Angela Dominguez,Dallas,Salad,1,10.25,10.25,2025-01-31 06:31:30
+72f5eace-e4ea-4b91-b239-63d67bb9f597,John Cummings,Dallas,Shawarma,4,14.19,56.76,2025-01-26 01:53:40
+7a26d8fa-26ba-4a53-9ee4-29ff7fbb22e8,Kevin Lee,San Antonio,Falafel,4,10.43,41.72,2025-02-27 01:38:32
+e32507cd-204c-4789-b3f2-3cae66d1f8ea,Kenneth Burch,Austin,Shawarma,1,11.86,11.86,2025-03-18 12:04:51
+6e33b471-e678-453d-8228-04a86613212d,Amber Howard,San Antonio,Shawarma,4,14.63,58.52,2025-03-18 21:26:59
+bd0eb9dc-fb91-4f8d-8f61-ff86ed8d552e,Andrew Fox,Houston,Falafel,5,5.57,27.85,2025-03-01 23:34:46
+8bfaae52-969f-4952-b484-fb819d55a2f6,Bruce Romero,Dallas,Baklava,1,12.87,12.87,2025-04-05 08:52:52
+0d321199-7601-4894-abd4-1ce4fe37bcc1,Daniel Franklin,Houston,Gyro,4,11.0,44.0,2025-01-06 10:14:04
+d5cd9b04-4418-462b-ad48-6ba2c36af3cf,Maria Avila,Dallas,Gyro,1,5.44,5.44,2025-03-04 19:45:09
+5d472d56-a7fd-467c-9f04-750dde95b341,Michael Lopez,Dallas,Baklava,4,13.26,53.04,2025-02-22 18:01:48
+493e110f-4e6f-402c-b4c2-dd46b9b4b87e,Jason Martinez,Austin,Salad,1,8.88,8.88,2025-03-08 07:43:40
+da256df2-9c53-447c-b352-8641d9e0163e,Jason Reid,Austin,Shawarma,5,14.72,73.6,2025-02-12 14:06:57
+ac4145bd-ec87-41b7-9795-d81e310f1e54,Christopher Mcdonald,Dallas,Salad,3,13.03,39.09,2025-02-28 02:24:35
+1460cf4d-f1f2-437d-852a-a5a6bc9de172,Elizabeth Johnson,San Antonio,Salad,2,9.79,19.58,2025-01-05 16:00:52
+03288a2d-ebff-47d8-8b94-0355a3ed2645,Vanessa Baldwin,San Antonio,Shawarma,4,12.5,50.0,2025-02-19 00:51:33
+a84d1ff5-2366-48af-a881-f602a816a4d8,Maria Shaw,Houston,Baklava,5,7.0,35.0,2025-01-15 02:48:56
+b6e2fe20-26cf-40bd-b98b-ddd3242289b9,Roger Little,Dallas,Falafel,1,9.44,9.44,2025-01-14 12:21:44
+dc23db0a-8b13-4f16-8be0-f0147abbb2c3,Jason Green,Dallas,Falafel,1,12.35,12.35,2025-02-04 21:20:35
+fdb564d8-8ba0-4ce6-9d8e-8bfd878c4462,Michael Stone,San Antonio,Falafel,3,8.82,26.46,2025-02-19 22:30:17
+243165e4-b7d9-43ba-a7e9-eff5066c81b0,Jamie Atkinson,San Antonio,Shawarma,1,13.47,13.47,2025-01-07 23:21:42
+03e95b5b-d831-4322-920e-ef6051a78bc2,Ashley Ellis,Houston,Salad,1,8.81,8.81,2025-01-22 02:36:50
+ec996500-a544-4dc8-ac0c-dfdd422b072e,Keith Scott,Austin,Falafel,5,13.25,66.25,2025-03-31 00:06:47
+b3ace4a0-2f6d-4882-a3fb-ea8702b4dd1e,Christopher Alvarez,Austin,Baklava,2,5.22,10.44,2025-02-01 11:43:04
+f42804ae-49ed-4243-94ff-86d444dfcb51,Gina Garcia,Austin,Baklava,4,13.23,52.92,2025-01-26 01:35:10
+0baa4347-2b06-4c85-a0ed-5820135b2799,John Black,Dallas,Salad,3,13.57,40.71,2025-01-22 19:30:54
+bf279c08-bc42-4776-a26b-d55958bd9e77,Dean Stewart,San Antonio,Salad,3,14.39,43.17,2025-02-04 11:44:39
+558e6233-98ee-4486-a0c5-adae6ba1aca1,Christine Scott,Dallas,Baklava,2,11.99,23.98,2025-01-13 03:51:50
+6a41dbe4-469a-4e11-b600-621ed1743345,Joseph Vasquez,Austin,Salad,2,9.65,19.3,2025-01-20 07:41:40
+1cc8e39e-19c8-4d25-8d32-86f4aeef1e98,Stacey Wagner,Houston,Gyro,2,8.02,16.04,2025-01-14 09:13:03
+e65e1a12-4352-4352-81ec-278c70d24b95,Ashley Dyer,Austin,Gyro,5,8.03,40.15,2025-03-13 14:42:36
+a36c8896-95f6-4fd5-a61a-fb0bfc911eeb,Deanna Carr,Houston,Salad,2,12.84,25.68,2025-01-18 01:09:31
+5453e3a0-6679-47b4-8232-45178819b6c0,Melissa White,San Antonio,Shawarma,2,14.39,28.78,2025-01-04 06:03:29
+7fc367b9-3238-4fa3-ba47-9dbe52cfab38,Johnathan Meadows,Dallas,Falafel,1,8.14,8.14,2025-03-23 16:41:05
+08095d8e-01e0-4f2f-8e8c-62204467c89b,Lauren Cruz,Austin,Salad,3,11.21,33.63,2025-01-04 00:19:09
+5a99ed7d-ff38-41cc-8c18-def88e3545d9,Kristen Stevenson,Houston,Gyro,3,9.79,29.37,2025-03-14 15:19:09
+c6a8eab0-2a12-4b28-b573-2f628cbc2d4a,David Randolph,Houston,Salad,1,13.72,13.72,2025-01-07 09:59:33
+40eb1804-352f-4b13-b750-a90c16cff3e7,Joshua Sanchez,Dallas,Salad,1,5.89,5.89,2025-02-27 05:56:48
+88e98ecf-1efc-46e7-8bb9-7434eca14e47,Daniel Michael,San Antonio,Falafel,3,7.16,21.48,2025-03-27 12:36:43
+ee43b374-e5d8-45cf-a191-1f8642185b1e,Christopher Casey,Austin,Shawarma,3,8.92,26.76,2025-02-05 20:59:09
+6478299b-291c-4215-bb6a-dadba26f5699,Ashley Branch,San Antonio,Falafel,5,12.78,63.9,2025-01-15 12:29:43
+c3bd8ad3-810b-4228-a58f-85f27c94ae07,James Duran,San Antonio,Falafel,1,8.59,8.59,2025-01-05 11:39:44
+60e9e714-99b5-43a0-a986-c16f23eefe40,David Shaffer,San Antonio,Gyro,4,13.28,53.12,2025-03-17 00:16:21
+5ba97bf8-9c7e-481d-a189-56a005322ecb,Joan Brennan,Austin,Baklava,4,9.51,38.04,2025-01-01 18:54:18
+13e5eb73-6b5d-4512-8b4f-cfa7af91584e,Justin Solis,Dallas,Baklava,4,13.11,52.44,2025-02-15 13:25:53
+c4db8454-594e-4922-b45c-33ec3da9132f,Lori Davenport,Houston,Salad,2,7.54,15.08,2025-01-07 14:20:31
+ebb8a101-3503-4280-8f37-6ec582f211ed,David Bradford,Dallas,Baklava,3,6.47,19.41,2025-03-14 19:32:22
+eca3f433-1274-45ae-b369-9bcfeff32209,Steven Bennett,Dallas,Shawarma,5,11.13,55.65,2025-01-29 07:12:00
+488772cb-2ca8-4eb6-905d-ce7f40ada71c,Nicole Wong,San Antonio,Shawarma,4,8.3,33.2,2025-04-06 13:08:29
+86590465-1a49-4c62-a0c4-f487f16e8904,Vickie Love,San Antonio,Salad,4,13.27,53.08,2025-01-10 06:10:50
+736d842c-ff32-4bd1-a0a4-64149752c012,Paul Schmidt,San Antonio,Gyro,5,11.2,56.0,2025-02-20 18:07:38
+0c1340a3-2971-4ab7-ad7f-586595571b69,Justin Nicholson,Houston,Shawarma,1,11.5,11.5,2025-03-14 18:58:39
+fe20c527-64f7-43cb-b680-7f298fe2c7fe,Teresa Perez,San Antonio,Gyro,4,11.28,45.12,2025-03-31 23:46:14
+59a52af7-0afb-4659-9eaf-9b58adcdbe14,Jackie Allen,San Antonio,Baklava,3,8.39,25.17,2025-03-31 13:09:53
+711e4902-6087-4403-a40a-23dc5385cffa,Kimberly Parker,Austin,Gyro,2,6.93,13.86,2025-02-19 16:23:07
+59861293-dcc0-469a-96fa-f8ac444a1d8f,Brenda Hayes,Houston,Baklava,4,5.02,20.08,2025-02-13 00:27:45
+6747da13-25e5-4a8c-acd0-0368c0f24d04,Christopher Johnson,San Antonio,Gyro,3,8.41,25.23,2025-03-16 20:28:02
+83aba6bc-71e0-4f7a-a08a-c7eb20ed6c70,Joseph Abbott,Houston,Baklava,5,6.13,30.65,2025-01-24 23:15:27
+3354fc46-2201-4eeb-839f-49e3e65ed5da,Courtney Jimenez,Houston,Falafel,1,9.99,9.99,2025-01-15 20:39:26
+c6073d92-9b81-4c7a-9073-fa3ddeb745b5,Kyle Smith,San Antonio,Falafel,4,8.13,32.52,2025-02-18 03:01:57
+fb8b80c7-dd81-4176-9c06-32e16979a987,Erik Welch,Austin,Gyro,3,6.08,18.24,2025-02-24 11:33:36
+7d5ce4f8-e6ef-4927-b607-7fd38b0eddb5,Michael King,San Antonio,Shawarma,2,12.36,24.72,2025-01-08 00:41:51
+0a322eb0-d54e-41cb-ade2-c37b3cb5b4c0,Lindsey Walsh,Dallas,Falafel,3,11.95,35.85,2025-01-28 15:51:23
+6356c48e-98f2-4816-9918-70d18b445757,Brian Butler,Austin,Gyro,1,9.9,9.9,2025-03-14 13:48:45
+9b0ce0a3-1287-40be-9c58-4c9a887a44ef,Valerie Hodges,Houston,Salad,3,7.79,23.37,2025-03-26 16:25:16
+642965af-e7ab-4c13-95bf-9a6491343e31,Robert Peters,Dallas,Baklava,5,13.06,65.3,2025-01-09 01:32:27
+122f587f-9323-4ef0-b5b8-6ed430fa2d14,Kevin Miller,San Antonio,Baklava,2,6.47,12.94,2025-01-13 06:13:09
+0be12571-eac7-43a1-8d23-d4ce703467f4,Michael Dean,Austin,Baklava,3,5.54,16.62,2025-01-08 06:07:43
+5e0f502b-b506-4bc1-be90-55a6fd61c836,Ray Rivera,San Antonio,Baklava,2,6.74,13.48,2025-02-08 02:35:29
+a9ad7b3d-1998-435d-97be-04f510fdfd9a,Robin Patel,Houston,Falafel,3,5.58,16.74,2025-01-18 18:26:13
+3d03047d-8167-4036-8b1e-a045fd860c2d,Andrea Mendoza,San Antonio,Salad,1,12.09,12.09,2025-03-01 04:52:02
+2f244dc5-dc52-4868-8dc3-c248439829a0,Brenda Deleon,Houston,Shawarma,3,5.19,15.57,2025-01-27 15:49:15
+1496085b-cd97-418f-8d1c-2986e4327f38,Alexis Clark,Austin,Baklava,3,14.55,43.65,2025-04-02 16:26:26
+273f2dd8-c7d8-4123-bbee-89ce3b40fc76,Daniel Wright,Houston,Gyro,2,14.46,28.92,2025-01-30 18:35:02
+d4d60d6e-c60e-46ab-bef1-ed5312264b3d,Lauren Perez,Houston,Falafel,5,12.39,61.95,2025-03-23 15:02:28
+60a64f05-a1fb-4f59-804f-ce0a1481c800,Clifford Chavez,Houston,Salad,3,10.9,32.7,2025-03-08 22:35:47
+88322d6c-0684-4225-b58d-873470aa9f9f,Anita Robinson,Austin,Shawarma,5,12.54,62.7,2025-04-02 20:00:17
+ff9b2b7b-9738-4ccb-b82b-8243b3adc122,Christine Fox,Houston,Gyro,5,14.6,73.0,2025-04-02 06:49:03
+f4cdb05f-ea1c-4f34-8a53-c5bd309c7c27,Michael Daniels,Houston,Gyro,4,8.22,32.88,2025-01-15 16:25:30
+dfc5f2ca-e6d8-483b-a5e4-3638d0b6538b,Ashley Jacobs,Austin,Falafel,4,13.29,53.16,2025-03-17 04:23:22
+155f4604-9ed6-44e9-88fa-1df0e1601045,Shannon Patterson,Austin,Falafel,1,10.28,10.28,2025-02-12 09:17:48
+510b5b8e-595f-413d-926a-952046701a0a,Michael Parker,Austin,Baklava,4,8.67,34.68,2025-02-21 01:39:54
+501bf8c5-0547-48c1-879a-b78fc41cdce2,Willie Jenkins,Austin,Salad,5,8.56,42.8,2025-01-04 10:03:06
+8b0b3204-9c8b-4024-bf69-ebd8a4cc02b9,Robert Rose,San Antonio,Baklava,5,7.37,36.85,2025-03-21 00:08:18
+407ef99e-908d-4edc-86fd-d3d3b752c4d2,Christopher Howard,Houston,Salad,1,14.94,14.94,2025-01-28 23:38:11
+49ebb261-95db-40af-9199-a3c17a62e575,Matthew Brooks,Houston,Gyro,2,7.25,14.5,2025-01-19 22:30:39
+18bb30a3-2fc6-42be-bde7-794b0f1d9c40,Teresa Walker,Dallas,Salad,5,7.46,37.3,2025-02-05 12:24:06
+3d611b9e-2b82-412c-bb6f-5a935cd35e49,Roy Miller,Austin,Falafel,2,14.16,28.32,2025-01-25 02:41:56
+d07cd502-c618-4c94-8f9f-6243805d60db,Kim Carter,Dallas,Salad,1,8.26,8.26,2025-01-27 20:49:26
+e4037c38-4fb9-414c-874c-b69097a2c106,Juan Aguilar,San Antonio,Falafel,4,7.36,29.44,2025-01-30 10:18:48
+944e075f-6857-4723-9197-3afcf5e4a6e5,Danielle Ramirez,San Antonio,Salad,5,5.71,28.55,2025-02-05 01:56:47
+45cd3f22-12b3-41e9-af45-9b27bd331bb5,Holly Phillips,San Antonio,Gyro,3,8.1,24.3,2025-03-13 04:10:51
+d03a7053-23bd-40b3-afaf-36dec8fbf74b,Miguel Allen,Houston,Shawarma,3,11.24,33.72,2025-02-16 01:00:30
+3aa8c7d8-06b0-4ca0-9173-82c1462fd425,George Shepard,Houston,Shawarma,2,11.0,22.0,2025-02-18 17:47:53
+bfeeff2a-3aa1-4f93-9920-32c931e00b2f,Erica Franco,Houston,Shawarma,1,9.73,9.73,2025-01-25 06:15:59
+26eff30a-6627-41a9-b479-a19b24233cbe,Clinton Howell,Austin,Shawarma,2,10.24,20.48,2025-02-04 08:53:09
+9ce79361-75bc-4bfe-92ad-630c133b233d,Kayla Hughes,Dallas,Shawarma,4,12.3,49.2,2025-02-14 07:05:50
+94938da3-1edf-4da3-86ba-3aac3713f150,Michelle Kennedy,San Antonio,Gyro,1,7.25,7.25,2025-03-06 07:48:23
+37950f9b-2acd-4ef6-89eb-0417437a1452,Stephen Wilson,Austin,Baklava,4,9.25,37.0,2025-01-03 08:34:45
+79bc1f92-51e8-4464-a298-b7a385739858,Brianna Moore,Austin,Salad,1,14.4,14.4,2025-01-16 08:47:30
+ff1ce247-093f-403f-8e89-be4fb17e68d1,Daisy King,Houston,Falafel,2,5.17,10.34,2025-02-16 01:49:43
+3261efcf-cbcc-4540-a1fa-4ddf9d281fb1,Christopher Vasquez,Houston,Baklava,1,5.65,5.65,2025-03-18 13:31:19
+7e3500b2-faf2-4fc1-9e30-028d3a3ce1d3,Peter Anderson,San Antonio,Shawarma,2,10.19,20.38,2025-03-11 01:53:41
+0cebfa58-2086-49b3-a1da-df75c601f3b8,Randy Perez,Houston,Baklava,4,9.03,36.12,2025-01-28 22:09:47
+6106e24e-803f-41ca-8fd8-539debe9ac59,Rachel Cook DDS,Houston,Baklava,3,12.1,36.3,2025-01-31 09:33:28
+397ad520-5df1-4603-86db-749f2d168607,April Frederick,San Antonio,Salad,4,11.59,46.36,2025-01-09 20:43:50
+a13de803-6bcd-4cdb-bfb3-0f3046f08bd1,Hannah Matthews,San Antonio,Shawarma,2,12.25,24.5,2025-03-16 01:41:33
+b8d257d2-194f-4989-a2c6-c9805bd41c58,Paul Woods,Dallas,Gyro,5,5.08,25.4,2025-01-17 23:26:28
+93ac5e74-1d04-40c9-a6b9-a8a0ae60ffc1,Robin Williams,Houston,Shawarma,4,13.02,52.08,2025-02-13 13:12:41
+b3e0b5f7-cd96-4d6e-a833-eb0ddd7ec3b8,Matthew Jones,Austin,Salad,2,5.15,10.3,2025-02-10 00:53:00
+875d32a8-92d1-4309-90fc-e4393fa48878,William Brooks,Dallas,Shawarma,1,6.59,6.59,2025-03-24 22:10:57
+259f345e-841e-4c03-8eae-a0ea35e7ebed,Phillip Miller PhD,Houston,Falafel,5,11.61,58.05,2025-01-05 20:04:21
+31776fe8-4e01-472d-8130-1fe1931c2fdd,Anna Lane,Dallas,Shawarma,2,14.2,28.4,2025-01-22 19:52:18
+cc025d16-a8e3-4caa-b0c0-421dae3a1f6e,Michael Robinson,Austin,Falafel,5,8.11,40.55,2025-02-26 08:06:44
+27ecb3fa-8674-4f25-8d6a-d8fe118d878d,Crystal Miller,San Antonio,Gyro,1,9.67,9.67,2025-03-01 11:03:31
+8384c793-5f78-47e3-9571-1fbc2a9311e8,James Reyes,Houston,Shawarma,2,5.7,11.4,2025-03-15 17:17:20
+b0b497cb-a2be-4953-a6c1-c589b4eedd85,Mr. Jonathan Padilla,Houston,Falafel,5,14.34,71.7,2025-03-22 12:47:07
+222e528c-296a-414b-8c77-aa06cd2c91b4,Kayla Washington,Houston,Salad,5,14.94,74.7,2025-03-06 06:28:18
+e1a616f6-d700-4fc0-9e83-a8878ad9cc4c,Sarah Thompson,Austin,Salad,5,11.42,57.1,2025-01-23 22:17:13
+8e65d55b-0834-433a-b30a-d0065f8dda6b,Cheryl Smith,San Antonio,Salad,5,10.95,54.75,2025-01-14 11:37:05
+dc2d624c-fece-4e51-b369-66a239b4f9e5,Gilbert Conley,San Antonio,Salad,1,8.07,8.07,2025-01-24 06:29:37
+5722f7aa-92ec-4fa7-a809-a100702e1af1,Robert Lewis,San Antonio,Gyro,5,8.97,44.85,2025-01-31 16:27:03
+00bc741f-110f-4157-99d6-1be275c1946f,Angelica Dyer,San Antonio,Baklava,2,7.05,14.1,2025-01-06 08:25:55
+5ebbcb17-c14d-4b0a-a9fa-55971cc6f869,Hannah Franklin,Austin,Salad,4,11.51,46.04,2025-03-20 18:08:06
+1a1c8466-6368-4e0d-91d4-64043666a9a1,Stephanie Salas,San Antonio,Shawarma,1,13.18,13.18,2025-01-09 10:53:42
+6d151060-90f1-4f58-8512-b044595f7aeb,Abigail Myers,Houston,Shawarma,4,8.05,32.2,2025-02-06 01:09:53
+048a3278-1eb9-4e56-8643-c79243d651ce,Vanessa Ross,San Antonio,Salad,1,6.31,6.31,2025-02-25 08:00:59
+4dd6f915-9ba6-411e-b421-b46d07f02761,David Walker,San Antonio,Gyro,2,13.94,27.88,2025-03-08 00:29:21
+286e66bd-d3a1-43b8-9ec1-90009f0f702a,Sara Young,Houston,Shawarma,2,7.63,15.26,2025-01-12 21:13:01
+6baca185-bc8b-4999-acae-4498544e7d01,Christine Roberts,San Antonio,Shawarma,4,10.18,40.72,2025-01-30 19:46:20
+d494c813-fb24-40b4-93c9-9f825bfcec03,Jacob Alexander,Austin,Gyro,5,14.6,73.0,2025-01-14 03:30:12
+a4a9a3a0-2196-4ac8-93ff-d470b62bda09,Ms. Lisa Hayes DVM,Austin,Salad,2,12.73,25.46,2025-01-13 17:25:23
+21060adb-28dd-4006-8d25-b3461d4f2ac4,Alison Martinez,Dallas,Gyro,4,9.24,36.96,2025-03-02 17:52:46
+d2a712d4-79c5-4148-acde-88e0720ba114,Diana Patterson,Dallas,Baklava,2,9.64,19.28,2025-01-27 12:00:13
+24814894-1c95-487f-a1a9-2aebfc7d9f91,Sergio Bennett,San Antonio,Shawarma,4,11.89,47.56,2025-01-13 03:23:57
+95b358bf-7764-4a5f-b69c-b98c4072fe0c,James Crawford DDS,San Antonio,Gyro,3,14.87,44.61,2025-03-16 01:36:49
+092839e5-bdcb-4ac8-a1d2-a916a0f50665,Jamie Fischer,Austin,Baklava,1,8.96,8.96,2025-02-18 19:10:44
+0f34876d-690c-4864-a1c4-1312df52fffc,Eric Martinez,Dallas,Gyro,2,11.37,22.74,2025-04-04 20:55:28
+d5229269-7b08-42ed-a02b-a92623e00e2f,Andrew Rogers,Houston,Gyro,2,8.49,16.98,2025-01-18 19:03:46
+fa642f31-be85-4c55-a543-2c04db2c0039,Elizabeth Mclaughlin,Dallas,Gyro,2,9.57,19.14,2025-02-26 08:16:49
+0b1f369e-3214-4ec4-bbe6-33dd5c2aa40e,Dale Guerrero,San Antonio,Salad,5,10.52,52.6,2025-01-19 18:25:52
+f3d5d4e4-ff67-4322-a241-4b82c75b5ce8,Robert Smith,Austin,Falafel,2,6.05,12.1,2025-03-04 02:40:56
+0049848c-b532-497b-8c9f-fed33d6d435e,Ashley Lynch,Dallas,Shawarma,2,6.12,12.24,2025-02-26 21:29:29
+cc9d2b26-8c80-430c-a510-4f7dc4c6c8e5,Mary May,Austin,Baklava,4,9.83,39.32,2025-01-07 22:58:03
+a0a3ba1e-0da8-41de-b428-bb5095e84704,Juan Foster,Houston,Baklava,4,14.73,58.92,2025-03-25 23:41:34
+faed53a2-bb1f-4447-bcd0-a5b892d458bf,Tiffany Jones,San Antonio,Salad,2,14.91,29.82,2025-03-21 14:40:35
+f4e65470-08b2-4add-ba39-3c2f5a95f8cb,Haley Watkins,Houston,Shawarma,4,14.31,57.24,2025-03-29 23:34:05
+34d85ca1-a5ae-4e3d-8176-705dd3246c89,Ashley Watkins,Dallas,Shawarma,5,5.24,26.2,2025-01-14 09:43:13
+0481e971-7f04-4e29-8433-e5f1c5a559ac,Douglas Stewart,Dallas,Baklava,3,10.69,32.07,2025-02-18 12:36:05
+450c944d-cf84-4f49-bf60-9af94750704d,Samantha Andrews,Austin,Baklava,3,7.3,21.9,2025-01-05 03:48:43
+367a0331-a04b-4dd2-8b62-33eecb3d212c,Justin Navarro,Houston,Falafel,3,11.12,33.36,2025-04-04 00:11:27
+454a04d6-6262-4cc0-aaad-1dbf22de48d2,Cameron Kelly,Austin,Shawarma,5,13.33,66.65,2025-03-01 20:23:10
+8a83199b-2fa3-4596-a994-801f087d9bbb,Tina Bell,Austin,Salad,5,7.64,38.2,2025-03-26 20:49:51
+5794b9fd-869b-4697-b9db-91c9d71ecbfa,Kimberly Brown,San Antonio,Gyro,2,13.29,26.58,2025-02-11 10:15:17
+3058b6f8-71dc-486a-a054-20bdc7be4f7d,Justin Smith,San Antonio,Baklava,4,7.73,30.92,2025-02-14 19:11:53
+6781bfff-2240-4ff8-827d-c4876d769aca,Julie Perry,Dallas,Baklava,2,12.15,24.3,2025-03-22 09:33:46
+fcf282af-efd1-4d80-a9f2-1b33a8344abd,Sharon White,Houston,Falafel,3,10.69,32.07,2025-04-01 05:47:01
+d1ba1e5e-efd9-4cf0-bedc-f2a7d06d4974,Bryan Smith DDS,Dallas,Salad,5,11.49,57.45,2025-01-23 19:08:10
+7de6d39f-b491-43aa-a957-953faca33e58,Julie Marshall,Dallas,Gyro,5,14.16,70.8,2025-01-24 18:13:06
+47cafb82-f961-4a63-afe5-a27e1922bb16,Melissa Reid,Houston,Falafel,4,14.02,56.08,2025-01-22 16:20:51
+c040b38d-c77f-4f56-92ae-a3accff38664,Gary Thomas,Austin,Gyro,2,11.32,22.64,2025-03-23 09:41:53
+416a92c1-4516-4fa0-9a0b-116979d13e20,Drew Boyd,Houston,Gyro,4,6.81,27.24,2025-01-08 14:14:43
+371e6738-ee9d-4e36-9039-618670edf893,Matthew Orr,Dallas,Falafel,5,12.16,60.8,2025-04-03 09:56:24
+7f27bc4a-4a29-4647-b6be-691a011f86b7,Anthony Gilmore,Houston,Baklava,5,6.01,30.05,2025-03-02 11:24:38
+fee01175-a54c-4f80-8f81-ea854ddec862,Carrie Short,Austin,Gyro,1,8.14,8.14,2025-01-04 15:56:30
+a8a3a084-55f1-4346-858d-ac15b5d18b91,Justin Hall,Houston,Shawarma,4,7.42,29.68,2025-04-02 20:36:45
+628533da-0cbb-4b09-bfd1-f75f3e51562b,Ms. Sandra Taylor,Houston,Baklava,2,6.12,12.24,2025-01-23 01:17:12
+bb3cfb14-07fc-4d71-8d63-a4b51de96adf,David Lucero,Houston,Shawarma,4,7.27,29.08,2025-01-29 02:36:37
+889342d0-3ce1-446e-a385-4a7049bfb169,Brandon Freeman,Austin,Gyro,5,7.89,39.45,2025-01-23 03:58:58
+f1f36320-42da-4116-a616-cdaa90156275,Justin Smith,Austin,Shawarma,4,7.71,30.84,2025-03-17 10:14:01
+553c1b7e-47b8-4bda-a86e-cd9fe0118559,Emily Hurst,Houston,Gyro,4,8.83,35.32,2025-02-07 17:29:45
+0ebb2c0c-3141-4f52-bd4e-cd2e7fb72833,Andrew Mcpherson,Dallas,Salad,4,12.18,48.72,2025-03-05 04:13:06
+6f910884-7af9-42ed-9707-1182212be351,Kenneth Fletcher,Austin,Gyro,5,9.64,48.2,2025-02-24 22:57:01
+b9626d45-39e4-44d9-bda6-6a4ec709f656,Megan Nelson,San Antonio,Shawarma,2,5.07,10.14,2025-02-21 12:40:48
+8b4c4fec-9968-4c65-9758-304ef44818e3,Cynthia Giles,Houston,Gyro,4,12.92,51.68,2025-04-02 13:30:00
+315c3976-153e-4eab-a081-e430f8e7a9f5,Joseph Hale,San Antonio,Falafel,1,12.81,12.81,2025-01-17 13:48:24
+ab5e746d-c718-4b55-969e-6d986c0415dd,Stephanie James,San Antonio,Baklava,1,12.53,12.53,2025-01-10 17:54:24
+d6e42da0-51fe-410a-bdeb-f0612e50629d,Kimberly Hall,San Antonio,Shawarma,1,6.99,6.99,2025-01-19 11:23:09
+9f5837bf-cff5-4296-9222-bc8a27ad70fe,Ashley Hines,Dallas,Gyro,3,9.38,28.14,2025-01-10 14:28:43
+41971ad4-08c3-4f33-825b-15b3f0b72b7d,Sara Morris,San Antonio,Falafel,1,8.76,8.76,2025-01-24 12:48:12
+01072ed6-9741-4425-bdbd-ec450cc34e35,Kathleen Small,Dallas,Falafel,3,8.63,25.89,2025-01-27 02:06:51
+17f64850-3656-4660-8358-4abc8eb288b0,Melissa Eaton,Austin,Shawarma,5,9.52,47.6,2025-02-19 22:19:30
+02b0fd90-36e8-4ace-a8eb-a615cc05e82a,Ashley Smith,Austin,Falafel,4,7.28,29.12,2025-01-21 07:41:41
+e36b3826-10f7-48a9-b50b-873062189635,Joseph Osborn,Austin,Salad,4,10.04,40.16,2025-03-22 14:05:40
+bd28b569-4818-4823-89be-ebfefe886dc7,Sara Brown,Houston,Baklava,4,5.79,23.16,2025-01-08 09:14:24
+2e81bb13-23f3-4c87-964d-481d99badcc0,Andrew Stuart,San Antonio,Gyro,4,5.28,21.12,2025-03-21 02:33:00
+d34a839a-009a-4b81-ba78-fd62ccedca05,Patricia Taylor,Austin,Gyro,2,13.44,26.88,2025-03-18 21:29:07
+22375f88-a14d-493c-bc72-b91d4c3c3c34,Robert Alvarez,Dallas,Gyro,4,13.35,53.4,2025-01-22 15:31:07
+6cfa9925-0c77-4e68-b5a9-623be52cdc0c,Dr. Ethan Martin,Houston,Baklava,4,11.73,46.92,2025-04-01 16:55:53
+b0a75d18-96c9-4538-a688-964f9924c515,Michael Anderson,Austin,Shawarma,5,9.45,47.25,2025-01-02 21:10:20
+cc6c1d3a-e74c-4e27-a1e3-207847729d4c,Thomas Hodge,Houston,Falafel,2,9.25,18.5,2025-04-05 06:52:36
+eeebb8ef-1cda-45f5-b051-b9527e55e015,Amanda Wong,Austin,Salad,1,6.49,6.49,2025-03-23 10:13:55
+1fcdb800-50fe-4060-b587-b38d577afabb,Mary Adams,Dallas,Shawarma,3,6.71,20.13,2025-03-06 16:34:16
+cacd37a9-2b9d-4b5d-8d87-55a92057fa19,Theresa Burnett,Houston,Salad,2,11.74,23.48,2025-03-25 11:42:41
+a22adfee-7a70-4655-9bb2-24ba2c8c90d3,Shawn Palmer,Dallas,Baklava,5,6.0,30.0,2025-01-01 02:18:02
+314a571b-0d25-4e42-a1f6-ed707e357658,Timothy Cruz,San Antonio,Salad,5,8.04,40.2,2025-02-15 08:31:10
+d49ea1a8-608c-4d94-9ef4-b0dfd187630f,Ashley Burke,Dallas,Falafel,2,11.22,22.44,2025-02-18 10:57:09
+d4082efd-9af3-4fe1-85ad-bb9a60fa5bcc,Tiffany Stout,San Antonio,Baklava,2,14.28,28.56,2025-01-01 16:47:23
+31a9d780-092f-432d-af69-3854d3366414,Jonathan Hall,San Antonio,Salad,3,14.71,44.13,2025-02-16 19:16:45
+a589b5f8-bbfb-4670-bd41-b4602b3b19c8,Anna Smith,San Antonio,Baklava,1,5.95,5.95,2025-02-08 02:30:18
+af0b06b4-ee1c-4e28-86e9-d8a97d1fabd4,Megan Jackson,Dallas,Gyro,2,12.98,25.96,2025-04-04 14:56:33
+be85f6db-bfc2-4e38-9b0f-0f7470289fd6,Amy Hanna,San Antonio,Gyro,2,7.97,15.94,2025-03-02 06:37:36
+c1b76d00-0bb9-40ab-a640-2dfcb7316609,Keith Thomas,Dallas,Falafel,4,6.85,27.4,2025-02-14 00:33:15
+03ce11ce-1ec9-40f6-a9c2-dbf18b9b46a7,Lisa King,Austin,Falafel,3,11.03,33.09,2025-02-01 11:00:44
+b8325a78-1243-4f25-9db8-1e5dada2d20d,Matthew Wright,Austin,Salad,4,13.82,55.28,2025-03-31 16:46:37
+ea7d531d-eb99-4801-b10f-7456faaccb2e,Jennifer Brown,Houston,Baklava,3,7.83,23.49,2025-03-28 05:53:21
+bc2bc2ac-2cf5-454a-a5c1-989d951ca71e,Wendy Salinas,Dallas,Baklava,2,11.98,23.96,2025-01-06 12:22:20
+1e06ab23-4a9a-407b-ba82-0e362428e05d,Veronica Ross,San Antonio,Falafel,3,7.74,23.22,2025-02-12 18:19:20
+5aea4502-64df-4a4a-9918-156d814c2839,Lisa Washington,Houston,Baklava,2,13.53,27.06,2025-03-30 06:54:08
+22f78bf6-58b0-47e0-87e3-2e413eac672b,Elizabeth Hickman,Dallas,Shawarma,5,12.67,63.35,2025-01-14 20:05:25
+6351a23b-3db8-42a4-ae8c-a0529b914e75,Nicholas Nichols,San Antonio,Falafel,1,9.44,9.44,2025-01-20 09:02:38
+06e233a3-2eab-45fb-a102-16ff29c77fd8,Meghan Wallace,Houston,Gyro,2,10.74,21.48,2025-02-16 00:50:54
+290aec04-633f-4550-ba1c-c1f182acfbce,Randy Adams,Houston,Salad,3,7.0,21.0,2025-03-04 19:02:28
+feb99451-e639-40b2-a6cb-617e7f8e8b27,Lisa Thomas,Austin,Baklava,1,5.13,5.13,2025-01-22 15:31:59
+e78755b8-54df-4707-ae62-bdbaa1afc100,Keith Henson,San Antonio,Salad,2,13.56,27.12,2025-02-05 12:30:46
+1db4aec6-9c68-4cf5-b78a-d7099885cd57,Nicole Freeman,Dallas,Gyro,1,10.81,10.81,2025-03-27 23:03:32
+1a9be133-8456-40c7-95c6-66a735c6448f,Jeffery Wilkinson,Austin,Salad,2,6.85,13.7,2025-03-06 07:45:22
+55644c1e-aac8-4303-b0fb-d3a23942ebda,Connie Soto,San Antonio,Gyro,5,8.61,43.05,2025-01-12 18:36:57
+e6f012f6-546c-4e20-bc43-8cda025df872,Hannah Warren,Houston,Shawarma,3,14.5,43.5,2025-02-24 08:39:36
+c7c43a4c-e643-4248-bd92-74203123eb76,Diane Macdonald,Austin,Salad,4,7.89,31.56,2025-03-12 20:06:26
+8afa059e-f4db-4b03-a0bd-b619a17469d9,Angela Jordan,Houston,Falafel,5,6.56,32.8,2025-01-07 01:24:19
+07cec302-f0c5-4f09-aab3-a76ef226f24b,Duane Beasley,Dallas,Gyro,1,8.16,8.16,2025-01-02 06:41:58
+db981779-f955-4edb-8ba6-69a74142ca89,Jody Ryan,San Antonio,Salad,3,7.9,23.7,2025-01-09 13:18:48
+18bab929-d08a-445f-a6c2-1cdf271fcfa5,Natasha Morrison,Dallas,Falafel,1,6.62,6.62,2025-02-09 21:59:47
+988dde77-e4d2-4103-a89c-12ab2ac78314,Stephanie Ward,Houston,Baklava,5,7.71,38.55,2025-01-14 13:35:08
+b69ec3ca-2193-489e-99b6-1abe9efdd29c,Aaron Johnson,Austin,Gyro,1,13.12,13.12,2025-03-18 18:16:20
+e4b9a540-ccad-4f4d-aa17-1de16af4943d,Thomas Bryant,Houston,Falafel,3,13.11,39.33,2025-01-04 05:39:06
+759114f5-0636-436b-96a9-e14abaa64f52,Scott Smith,San Antonio,Baklava,5,7.94,39.7,2025-04-02 12:12:28
+ca88cfed-98f7-414e-a56e-e593bd35f660,Christopher Williams,Houston,Gyro,1,11.16,11.16,2025-03-14 15:28:42
+5dbfe013-3dcc-44a6-aa28-6609aa7f5c6b,Becky Adams,Houston,Gyro,4,11.69,46.76,2025-03-26 10:49:05
+9ffce2be-b6f8-47e6-82fb-75d535b613a6,Joshua Nelson,Austin,Salad,1,7.37,7.37,2025-03-16 08:40:24
+95675596-2b63-4f7d-9bb1-077270e69f1e,Hannah Jones,Dallas,Shawarma,2,5.29,10.58,2025-01-16 21:39:40
+f7f676e6-c27a-4ea0-adc6-e92a86382e80,Bryan Merritt,San Antonio,Baklava,4,8.36,33.44,2025-01-30 16:25:49
+4290dbaa-9c14-4178-92ef-185b522acd3e,Helen Vazquez,Austin,Falafel,3,11.03,33.09,2025-02-22 03:33:11
+455d91bc-7f72-4ab5-9500-a26db27220a0,Charles Robinson,Dallas,Salad,4,8.82,35.28,2025-02-20 01:57:47
+eb2f7145-4489-43c3-93a6-f9e82bc6f459,Andre Brady,Austin,Gyro,3,5.38,16.14,2025-01-04 16:17:30
+0cff7978-b29e-4e56-a697-f875ed15b108,Nicholas Stewart,Austin,Gyro,2,9.84,19.68,2025-02-01 14:33:09
+9b8ae420-6f2f-4c35-bdbd-db3d754f7a00,Mark Boone,Houston,Falafel,4,8.66,34.64,2025-01-24 16:41:59
+dbcab8ea-a8f2-448b-ad42-10399f00a269,Elizabeth Flores,San Antonio,Baklava,2,5.87,11.74,2025-02-26 05:17:34
+95219be7-212e-4ce9-8a02-51abfcb08e91,Kelsey Hudson,Houston,Falafel,1,13.31,13.31,2025-01-23 23:18:42
+a27d368d-2777-4e6b-aaad-1a778932fa43,Tara Robbins,Dallas,Baklava,1,11.36,11.36,2025-01-14 23:06:57
+1600e1ba-c6d8-41b8-a559-591d9476adac,Monica Santos,Dallas,Baklava,1,5.97,5.97,2025-03-17 16:52:14
+ad20c8c1-5c01-421e-8019-8e8109b1bb03,Jacob Moore,Houston,Salad,1,14.43,14.43,2025-02-24 10:39:56
+acba3310-5345-486f-84f0-b5e3bc4a69f4,Melinda Torres,Dallas,Salad,4,7.2,28.8,2025-03-22 20:51:39
+462a5fdd-d93e-4b1b-8b01-6dd51ee6dd1c,Logan Collins,Dallas,Salad,4,14.66,58.64,2025-03-08 04:51:56
+c6b5bdef-4f0c-4ce9-8d90-b616f6e36cf1,Christopher Smith,Houston,Gyro,1,9.17,9.17,2025-03-05 06:16:25
+1d6913ed-523d-4fac-ad3c-158d51b5c426,Rebecca Myers,Dallas,Baklava,4,6.28,25.12,2025-02-12 04:34:49
+60ad6a45-8030-45ee-ad27-927f9534ca43,Deanna Beltran,Houston,Falafel,3,8.24,24.72,2025-02-26 07:07:35
+e950968c-a731-4537-baef-4a756aa58052,Lindsay West,San Antonio,Baklava,1,14.67,14.67,2025-04-05 04:11:10
+884278a2-f300-4cf7-b5a9-db9540bc5935,Rebekah Wheeler,Austin,Shawarma,5,7.06,35.3,2025-01-13 15:48:01
+30081d6e-e7f9-4c44-8a1d-fe116174f184,David Green,San Antonio,Baklava,1,8.52,8.52,2025-01-27 10:47:11
+a53f0e88-7764-4c0f-a9cb-ccc28c4870d1,James Weber,Dallas,Salad,5,6.48,32.4,2025-04-04 16:08:54
+1e056b0d-c845-476d-8943-073acc6a52fa,Kevin Morrison,Houston,Baklava,2,13.91,27.82,2025-04-04 07:26:06
+0a942131-1ff6-4262-8d2b-c6c772f7bfc2,Cynthia Rodriguez,Dallas,Gyro,4,7.56,30.24,2025-03-13 11:55:18
+56c0b09f-327f-40e7-b1db-ebbc4b1829b8,Julie Moore,San Antonio,Shawarma,1,11.81,11.81,2025-02-12 11:47:14
+799b4880-f98d-41fa-bb4c-73c972710085,Kimberly Wallace MD,Austin,Falafel,1,5.49,5.49,2025-03-25 12:43:15
+be8bde10-3f77-4026-8569-cb621506e0b9,Connie Woods,Dallas,Gyro,1,9.05,9.05,2025-03-03 08:54:53
+48cb7405-bc7e-4108-9820-e268ae01a490,Jessica Wells,Austin,Baklava,5,13.49,67.45,2025-01-03 19:13:53
+e4989e22-565b-416c-8bc2-4d0f22f72941,Thomas Nolan,Austin,Shawarma,1,10.87,10.87,2025-02-05 21:40:11
+7c342019-e83b-43eb-84a0-d8fa73a47c2a,Ruth Guerrero,Austin,Baklava,5,13.16,65.8,2025-03-08 04:12:52
+4f41c8bc-83ae-4803-9c55-643b0ed1a252,Michael Smith,Houston,Shawarma,2,8.87,17.74,2025-03-27 10:03:47
+f7c83f07-850d-46c6-b59e-e68984ab73c6,Jared Reed,Dallas,Salad,1,14.44,14.44,2025-02-26 19:43:10
+c1b44ddd-56cf-417c-b434-c1269d51fbdd,Brenda Manning,Houston,Gyro,3,13.06,39.18,2025-02-27 20:50:52
+09600091-3e1e-499c-b1fb-af57188f75b9,Thomas Garcia,Houston,Shawarma,5,9.93,49.65,2025-03-10 13:50:32
+6731a9e4-238c-4982-bb79-6c0f40c9fed3,Carrie Mclaughlin,Dallas,Baklava,5,10.61,53.05,2025-03-01 12:45:22
+28bbf3f4-dabb-488a-b312-f9a6eee57278,John Porter Jr.,Houston,Falafel,5,7.56,37.8,2025-03-16 00:09:18
+57da39c6-754f-46b9-b6e2-9fd8d7fc1280,Sarah Dennis,San Antonio,Shawarma,1,13.4,13.4,2025-02-08 11:08:24
+f36fd8cc-8dc7-41ab-8169-71b4287b70c2,Nicole Tate,San Antonio,Gyro,4,12.97,51.88,2025-03-31 06:57:18
+0a607ff7-75af-4846-a56b-fb34f629b4b7,Margaret Gonzales,Houston,Salad,5,8.19,40.95,2025-01-04 21:49:01
+d3226c52-2a36-4092-920f-21970025609c,Dean Gibson,Houston,Shawarma,5,11.94,59.7,2025-02-06 20:10:12
+f68e41cc-c842-4226-b6cf-e8b751857340,Jeffrey Carson,Austin,Falafel,5,14.4,72.0,2025-01-10 07:15:14
+31b74b3d-63ac-498d-ab6c-192781498e66,Joshua Tran,San Antonio,Gyro,3,5.43,16.29,2025-01-06 05:57:14
+4c7e4af2-eb12-4095-831e-bf770d2542ba,Michael Gonzalez,Austin,Falafel,3,11.22,33.66,2025-04-02 18:11:50
+f4b7ca21-9b0f-4a79-9623-b0e38a549925,Charles Trevino,Dallas,Shawarma,1,9.1,9.1,2025-02-09 12:53:00
+56f31abf-e814-44c0-b94b-384de98f470b,Mr. Jonathan Fuller,San Antonio,Baklava,5,13.08,65.4,2025-01-29 22:06:55
+68c1fec9-3688-46a7-937a-25a8825a3384,Derek Bowen,Austin,Falafel,4,12.47,49.88,2025-03-09 12:05:20
+aba4a4de-68e9-4b8c-81f0-324d73709140,Jacqueline Smith,Dallas,Baklava,2,7.8,15.6,2025-01-17 17:02:42
+a6eb06e4-aa48-4e9e-85cc-f4e8c744b915,Jonathan Mills,Austin,Salad,1,8.53,8.53,2025-01-18 00:20:19
+73010957-1113-4259-8562-4d4d681a000a,Bonnie Sutton,Houston,Salad,2,5.17,10.34,2025-03-14 03:02:32
+5b823aac-5fb7-495d-b5b1-ff9d62c7b455,Kristy Rich,Houston,Gyro,2,13.27,26.54,2025-03-31 23:29:36
+d227dda7-2003-4d26-84fb-b4f0f0a8377e,Dawn Becker,Austin,Gyro,1,12.58,12.58,2025-01-19 23:17:29
+cb5224a8-011a-42c9-893a-10215eeb7a02,Scott Cook,San Antonio,Gyro,5,13.56,67.8,2025-01-10 18:40:21
+aef05053-75d3-4134-a5d4-02d1bf50cb52,Adam Garcia,Dallas,Baklava,4,5.12,20.48,2025-03-27 21:10:12
+4787a161-781c-457c-82b5-b0872ee557fd,Cody Rogers,Austin,Baklava,4,7.77,31.08,2025-03-21 01:53:16
+b0d79a61-7b3b-4b8d-92d4-55520ba50789,Mark Thompson,San Antonio,Falafel,5,12.22,61.1,2025-03-02 14:26:36
+378be0a7-6247-4def-97ff-4242c763b4bd,Matthew Bell,Houston,Gyro,1,6.01,6.01,2025-02-27 19:00:27
+16ed7871-e672-4c55-9121-2ac1810aae35,Scott Johnston,Austin,Baklava,1,6.27,6.27,2025-01-05 09:17:07
+53a15c0a-cba3-4897-8587-9855ee77ccc4,Patricia Wilkerson,Austin,Shawarma,2,10.26,20.52,2025-01-29 18:39:24
+53cadf78-2aa9-4725-a23e-6b692a5498fc,Jason Thomas,Austin,Gyro,2,11.7,23.4,2025-01-29 18:30:57
+a09f4dac-0d5e-4541-89e0-a4723fbaa358,Jade Bradley,Dallas,Baklava,5,13.59,67.95,2025-01-31 15:43:17
+622dcdf9-e671-4c8f-9e44-246ed1a3cbce,Debra Brown,Austin,Salad,3,7.51,22.53,2025-02-15 10:26:47
+a1023fbe-5c60-4758-b4de-7eb4ea74c379,Barbara Moore,Dallas,Gyro,5,11.88,59.4,2025-03-25 14:51:08
+d7847a9f-a823-48be-9960-8a87448e53a4,Brooke Rogers,San Antonio,Salad,2,9.09,18.18,2025-03-11 12:43:25
+f809fdb6-3c98-4bcb-805c-4fa44ab4cfe1,John Drake,San Antonio,Shawarma,4,11.9,47.6,2025-03-20 09:57:52
+da3256a5-3ec3-4218-a68d-ab9005671fe1,Rick Campbell,Austin,Falafel,1,14.88,14.88,2025-03-29 16:37:30
+37d7485c-c797-4946-a3fb-fcd62370faff,Susan Roberson,Houston,Falafel,4,9.69,38.76,2025-03-29 13:37:04
+aa6e63f1-af91-4976-93b3-1d9a81ac43e3,Anthony Hays,Houston,Baklava,4,9.85,39.4,2025-02-09 13:58:07
+5be4ffe3-4381-4440-a62d-0fab01214387,Richard Holmes,Austin,Falafel,5,8.46,42.3,2025-04-01 08:01:35
+ad83d1bb-c1d4-4b0b-b456-e1202313745b,Dylan Nguyen,Houston,Baklava,4,13.08,52.32,2025-03-21 03:18:21
+b3473900-2c0b-473b-951e-59452df2715b,Andre Miller PhD,Houston,Salad,1,14.33,14.33,2025-03-19 22:09:56
+70e7cd34-c2b6-4292-9e4f-c0f1cfe4bfd2,Vanessa Mckinney,Houston,Baklava,4,5.98,23.92,2025-02-13 11:52:32
+426db95d-97f9-45a1-9a6a-34c6b456e90a,Oscar Little,Austin,Falafel,1,14.41,14.41,2025-01-06 06:43:29
+ab55bca4-583a-496b-a04c-20f32bb9e8b0,Brandy Brewer,Houston,Falafel,4,13.65,54.6,2025-02-16 10:44:40
+309b3a5c-3c56-4fff-9b12-e61fe0944c9e,Amber Short,San Antonio,Shawarma,2,14.5,29.0,2025-01-06 03:04:36
+65f6d251-2f7d-4efe-8983-1cf836917765,Austin Barnett,Dallas,Gyro,5,11.93,59.65,2025-02-08 13:19:45
+20cadfda-b6dd-4716-80e7-60ac7ae21a73,Carla Beck,Houston,Shawarma,3,11.56,34.68,2025-02-16 05:08:21
+564aae14-4511-4981-95c7-f925d2658da7,Howard Garcia,Austin,Falafel,2,11.4,22.8,2025-01-18 06:17:21
+7c51f3f3-af77-4a71-a127-7bfc972f53bd,Linda Perez,San Antonio,Falafel,4,9.3,37.2,2025-02-01 19:49:20
+52b43c18-eec0-4f39-a2d2-360c69c35e8a,Amanda Smith,Dallas,Salad,5,7.27,36.35,2025-03-27 10:51:44
+afcfbac0-e035-4e49-aa83-388d731b5546,Michael Smith,Dallas,Falafel,5,13.1,65.5,2025-02-03 05:05:30
+a44cb036-5f39-4610-890a-b254de62c0d0,Brett Kaiser,Austin,Falafel,4,8.0,32.0,2025-03-09 02:02:20
+5af9c2a7-b702-4aae-ba76-4f188637ff7b,Martin Jenkins,San Antonio,Baklava,3,6.04,18.12,2025-02-22 19:52:30
+aac602f9-a838-4974-86e6-f306d74fa928,Thomas Nichols,Houston,Baklava,4,14.49,57.96,2025-01-05 22:44:02
+a859b3ac-d81a-4fa4-821f-4f217fc5cf6d,Renee Davis,Houston,Shawarma,4,11.21,44.84,2025-01-06 17:33:40
+1ff10896-6ae2-4daf-9639-f515c6abe124,Katie Hall,San Antonio,Baklava,1,11.03,11.03,2025-02-11 19:14:19
+a39eb0ae-f1fb-43ad-966b-16fef8a9ec78,Stephen Lynch,Austin,Salad,1,11.07,11.07,2025-02-11 04:09:24
+5449d099-2950-4b01-8496-85a58b99b181,Jessica Bryan,Houston,Shawarma,3,10.08,30.24,2025-01-03 14:00:44
+d32fce32-a8ec-43dd-8b54-6312cb88b180,April Beck,Houston,Salad,2,10.48,20.96,2025-01-13 14:05:07
+9d4bc20f-4936-442e-8968-36947fa7e464,John Garza,Houston,Shawarma,5,10.58,52.9,2025-02-12 20:39:00
+4101f54a-c8c5-48aa-9c41-ddb4f1e052d0,John Decker,Austin,Shawarma,1,12.52,12.52,2025-02-13 19:37:04
+8586d611-eb68-4bd2-85ad-32d7d73a0bf1,Karen Martin,San Antonio,Falafel,4,6.5,26.0,2025-03-26 00:23:38
+ec7f60fa-597c-425f-8072-69cd3098be62,Joshua Edwards,Dallas,Shawarma,2,10.45,20.9,2025-03-29 05:33:01
+9ecca8b3-3154-4d59-8534-5b3ad18c7f62,Kayla Knox,Dallas,Salad,4,11.5,46.0,2025-02-25 18:20:02
+b4f31125-acce-4948-9888-a7d3725c354f,Jade Davis,Dallas,Salad,2,8.03,16.06,2025-01-10 14:50:35
+5f21ddb0-a5d1-4d13-a97b-cd9f365d20b6,Janet Lopez,Austin,Baklava,2,5.79,11.58,2025-04-03 23:43:40
+85bafd6e-7aec-4ae7-8862-6062b820c1ad,Chad Kramer,Houston,Salad,3,10.51,31.53,2025-04-03 18:18:22
+32d7651a-568c-4750-8e85-bb92a9f35577,Amanda Williams,Houston,Salad,3,6.12,18.36,2025-01-18 16:54:02
+c3b3e146-9bd8-4092-94eb-758679310b81,Richard Fox,Dallas,Baklava,4,5.52,22.08,2025-03-25 17:22:53
+0864c675-4660-4660-9b8f-e7563b26763f,Karen Hughes,Houston,Salad,4,12.85,51.4,2025-02-11 11:02:00
+c8cdd8ef-2239-4540-a3ce-a36b6eb86997,Jessica Foster,Austin,Falafel,5,9.0,45.0,2025-01-08 12:38:06
+3d68f6e8-ebda-4f13-a3bc-6fecf393a26a,Nicole Berger,Dallas,Baklava,1,6.82,6.82,2025-03-08 12:43:32
+d969c8b1-6abb-4689-9427-8b7dd133149c,Laurie Schultz,Houston,Shawarma,4,5.2,20.8,2025-02-02 14:13:25
+ddec080a-832f-4612-a6ec-155dee683c62,Kerri Davis,San Antonio,Shawarma,4,8.76,35.04,2025-02-12 14:12:31
+b9c05960-7186-4a95-a007-37dd568a064e,Tara Hanna,Houston,Falafel,3,7.71,23.13,2025-01-11 12:22:39
+3832d7b6-09b1-4685-a9ff-d9c375686a09,Herbert Smith,Austin,Gyro,3,6.42,19.26,2025-01-17 14:47:58
+a8d6423d-2456-4fc6-9314-578dc25a991f,Charles Stone,San Antonio,Gyro,4,11.65,46.6,2025-01-31 06:11:29
+0f7335b1-4ed5-4356-a68d-eac1fc0565a5,Patricia Burgess,Austin,Baklava,2,12.97,25.94,2025-01-08 15:11:43
+e555723b-f181-46e2-9b53-507be50eba6f,Kelly Williamson,Houston,Salad,5,9.39,46.95,2025-01-22 06:14:35
+62f7da86-2b9a-4aa1-bed5-30671cc2e6b8,Chase Foley,Austin,Shawarma,1,10.12,10.12,2025-01-30 07:10:47
+4602d572-d1b6-442f-a161-f6e8631f978a,Robert Jennings,San Antonio,Baklava,2,11.79,23.58,2025-01-26 18:15:02
+b112335d-475b-4624-92c9-e245e1ca81af,John James,Houston,Shawarma,4,5.57,22.28,2025-03-31 13:04:14
+00ed09e0-1ae9-42b9-bbff-a9f87b8bb690,Brian Cooper,Houston,Shawarma,2,9.02,18.04,2025-02-25 21:27:02
+35eb6b66-2d81-40d9-9d68-1a6a10e203f0,Brittany Ramirez,San Antonio,Salad,1,12.79,12.79,2025-01-01 10:02:27
+114bf7a3-cc35-4243-871d-e7bebc907bd3,Michael Shaffer,Houston,Baklava,1,14.99,14.99,2025-01-16 17:01:26
+9e7ea224-1cae-441d-8aa0-2b3e6468c416,Haley Smith,San Antonio,Shawarma,2,9.01,18.02,2025-03-02 18:48:29
+ab5756f0-e726-409d-8397-aa9e6e1bfa26,Sheri Garcia,Dallas,Falafel,5,9.11,45.55,2025-01-11 04:09:24
+3ca9ca45-6dcb-4b09-837f-d60c18ed8b9a,Colleen Frost,Houston,Shawarma,1,8.3,8.3,2025-03-20 20:50:52
+17f852a3-9fe3-4b65-88ba-a416cc4bdd7a,Bruce Fisher,Austin,Baklava,5,12.49,62.45,2025-03-31 14:31:06
+9e6a1629-186a-4da1-84ce-fb211b2bd167,Jeffery Reed,San Antonio,Gyro,5,10.63,53.15,2025-04-03 08:30:16
+3b251848-78a7-45e9-ae19-bef6a1387f40,Katherine Frazier,Houston,Shawarma,3,7.35,22.05,2025-01-10 18:35:13
+22b3c74b-9bbb-4125-9e62-f0eaf8a7bcb9,Haley Bailey,Austin,Salad,2,13.82,27.64,2025-02-17 08:31:42
+608dda30-a57d-451d-b713-5f8a687c1d18,Brian Wilson,San Antonio,Gyro,4,11.89,47.56,2025-04-04 03:24:53
+6e3c2102-e71a-4710-b88f-0941f44f4cb7,Steven Sanders,Austin,Baklava,5,6.09,30.45,2025-03-21 04:43:47
+df27b292-85c8-48e2-9518-fc4089d008af,Karen Long,Austin,Salad,4,9.9,39.6,2025-03-29 07:39:44
+04cd6c8c-a640-46e0-bbe8-8edbf99f9416,Keith Silva,Austin,Falafel,1,7.47,7.47,2025-02-17 22:21:32
+5677efed-12f2-456c-823e-08998ed09c7b,Aimee Watson DDS,Austin,Falafel,5,5.68,28.4,2025-03-07 01:47:28
+8e6a57b0-088a-4035-855d-76f7f01d5bff,Melinda Wilkinson,Houston,Shawarma,3,9.88,29.64,2025-02-02 21:42:17
+05cd65da-ad31-401a-aac9-564a091ad389,Victoria Drake,Dallas,Shawarma,5,14.38,71.9,2025-01-18 17:49:27
+f3740d5a-aff0-4a8e-a5a8-17547a6b3362,Elizabeth Garcia,Dallas,Salad,2,6.15,12.3,2025-03-17 03:26:22
+0098b5b2-dcce-4820-aaac-cfef9c69d7b0,Katrina Thompson,Dallas,Gyro,4,6.05,24.2,2025-02-16 20:57:33
+aff63ffe-8c3f-405b-a5d6-a7a78b0fe74b,Christina Hoffman,Houston,Shawarma,4,8.42,33.68,2025-03-09 08:16:59
+c93632be-0e56-45a1-b2e8-c16d57f8d7bb,Matthew Price,San Antonio,Gyro,5,10.18,50.9,2025-01-28 14:37:06
+ed3c64f0-86cc-4f1a-8127-2c900fc1009a,Timothy Gomez,Dallas,Salad,3,9.68,29.04,2025-03-13 16:13:54
+7176fadc-331c-49a9-967d-251cb02667fe,Jennifer Nguyen,San Antonio,Falafel,2,7.74,15.48,2025-02-07 19:52:08
+5f95c52e-157d-49dc-84e4-2d7aafbe53ee,Melvin Flores,Dallas,Baklava,4,6.75,27.0,2025-01-18 12:23:23
+82c8408a-e823-44a4-b217-4822b2449cea,Evelyn Andrade,Houston,Shawarma,5,13.1,65.5,2025-01-01 08:32:37
+baf7a778-0d28-4c1c-9fbc-6518264281f8,Rhonda Hill,San Antonio,Salad,5,14.71,73.55,2025-01-05 11:19:24
+bb81d6d4-1f57-418b-8994-4841c6177c52,Justin Waters,Austin,Falafel,1,8.26,8.26,2025-01-02 06:03:36
+610da46e-a454-4d70-bd85-f0c318ce67fe,Tammy Gonzales,Dallas,Gyro,2,8.28,16.56,2025-02-04 15:29:33
+f490cccd-cade-47a9-9a97-baf2b425d69b,Jeffrey Davis,Houston,Gyro,1,14.15,14.15,2025-02-27 10:37:23
+d2e5168d-56d2-4f28-b16d-f5a4cf85761c,Richard Hayes,San Antonio,Salad,5,11.46,57.3,2025-01-31 12:42:55
+b811c0bf-6998-4213-a0f0-b4c1f3ccb47b,Holly Cummings,Austin,Shawarma,2,6.25,12.5,2025-02-05 02:42:44
+ff400a00-eb1d-4009-b447-2bf0ea589875,Yvonne Dudley,Dallas,Shawarma,2,5.53,11.06,2025-01-05 15:53:53
+8f86f7d5-6b98-42c7-8dd3-a78a0c419a1d,Richard Ford,Dallas,Gyro,4,13.15,52.6,2025-01-12 14:36:36
+d22dd920-e0fd-44ff-b336-d9246b33e73c,Jordan Brown,Houston,Gyro,2,6.15,12.3,2025-02-27 15:09:28
+710ff205-26f6-4373-8f00-ef0ff92d26ee,Jessica Barker,Houston,Shawarma,3,6.33,18.99,2025-01-07 21:19:41
+c18c9e33-d5bf-450f-9a9a-e123a3f07871,Anna Craig,San Antonio,Shawarma,2,11.47,22.94,2025-03-20 20:15:50
+5e064469-af36-438a-ae87-1bed08508763,Paul Hernandez,Austin,Shawarma,1,7.1,7.1,2025-01-19 13:50:37
+ed5f0cd2-c2b5-4f8c-8fe7-90194c3c1b5c,Austin Young,Dallas,Baklava,3,7.07,21.21,2025-03-31 09:02:29
+f518aeef-2489-4926-b6fb-0069df58dc18,Kimberly Fisher,Dallas,Salad,5,14.72,73.6,2025-02-19 05:22:28
+c26d7658-7e29-46a1-aa7c-2f48467c4237,Jonathan Benson,Dallas,Shawarma,1,10.1,10.1,2025-03-02 07:55:40
+9ee94eb2-9508-4a14-acaa-39d34ad93b48,Emily Rojas,Houston,Salad,4,9.57,38.28,2025-03-26 12:22:38
+2a23e763-7b52-4c5e-ba48-79330f18d655,Mark Knox,Austin,Baklava,2,11.96,23.92,2025-02-19 19:05:34
+11638245-b2b5-46cf-8a7f-6e9a3a02e576,Valerie Perry,Houston,Salad,4,5.78,23.12,2025-04-03 07:48:46
+44843830-5084-497f-89ae-3bb65668f78c,David Washington,Dallas,Baklava,1,10.01,10.01,2025-01-09 05:08:34
+ffa05dac-7ab7-4eef-a214-cebe91dfdc41,Megan Green,Dallas,Gyro,2,13.01,26.02,2025-01-17 23:10:22
+6fc2568e-daca-4a60-8b6f-8434b74367a9,Brittany Hill,Houston,Gyro,4,13.4,53.6,2025-01-14 09:39:18
+4d92ab62-8af0-4d40-a499-b95d6074e3bb,Steven Kelly,Austin,Baklava,4,7.33,29.32,2025-02-03 12:45:47
+83d843ad-06d7-4c6e-801c-5ef748b71c0c,Aaron Coleman,San Antonio,Falafel,1,12.15,12.15,2025-04-04 08:52:45
+2dc5beb3-b03e-46fd-8716-f3b4689c3fef,Reginald Brown,Dallas,Falafel,2,11.75,23.5,2025-02-02 21:27:30
+c321fa39-cb3d-46d7-8c43-b5a2156f747b,Dr. Jeffrey Aguirre,Dallas,Gyro,3,11.35,34.05,2025-03-28 02:22:56
+f69c8ade-0f14-4bb6-92f1-76e5251bef72,Amanda Grant,San Antonio,Gyro,1,6.44,6.44,2025-04-03 09:09:25
+237f9d65-168b-45f1-a35f-d8d50a94966c,Jose Davis,Houston,Baklava,2,12.11,24.22,2025-03-23 23:44:14
+4f9d2247-73b6-483b-b5ee-a7f93b7987f1,Jonathan Krueger,Austin,Falafel,4,14.13,56.52,2025-03-27 07:33:53
+31f9a198-da34-4092-b18f-d92dd7f76199,Wanda Marquez,Houston,Gyro,3,8.0,24.0,2025-03-24 18:34:11
+fc3f74d9-5e53-4c8e-a9c4-4166b28cb2a3,Thomas Collins,Austin,Shawarma,2,5.07,10.14,2025-01-24 06:15:21
+31734eb5-f648-41fb-b835-46afdd603699,Matthew Harris,Austin,Baklava,3,12.08,36.24,2025-01-17 16:01:22
+fd241aa2-e275-432f-bfa5-d48eb0a6bc37,Christy Dunn,San Antonio,Shawarma,1,13.9,13.9,2025-01-18 18:49:07
+49905d3c-af93-43cc-90ae-fad7cb228160,Kevin Jackson,San Antonio,Gyro,2,14.93,29.86,2025-01-29 00:11:21
+58088d2e-9b1b-44ff-b3da-ed6ac2a58a0c,Kayla Torres,Austin,Baklava,1,6.31,6.31,2025-02-12 19:19:58
+aa7116b1-4ffc-4f17-b3a9-b8fe62ab00cd,Joanne Sanchez,Austin,Gyro,4,8.77,35.08,2025-04-03 01:45:51
+d1677793-1b3f-4c84-b5c8-a0e4931f90b3,Kevin Mccullough,Houston,Baklava,1,11.14,11.14,2025-01-30 11:18:56
+98cdef5c-1ac0-4c9f-9a2d-6fe93ea01fb2,Michele Mcguire,Dallas,Falafel,2,14.29,28.58,2025-01-31 20:19:40
+2f6cc007-6182-4663-aead-8f3d88428ede,Lisa Richardson,Houston,Baklava,1,10.63,10.63,2025-01-21 13:47:19
+a0565047-e056-48b0-aa30-e1d552ac7648,Brittney Johnson,Houston,Salad,5,9.71,48.55,2025-02-12 07:53:38
+242630b0-8e34-4c0c-8220-f31e131a85c1,Carmen Gonzalez,San Antonio,Shawarma,5,11.8,59.0,2025-02-27 16:36:34
+53b59b9c-5ad2-4b9a-ae17-2d62f57ffe0e,David Noble,Austin,Baklava,3,12.61,37.83,2025-02-11 04:36:53
+e9b4fcd8-11a2-4092-a78b-18309c201ca1,Robin Cunningham,Austin,Salad,5,9.09,45.45,2025-04-05 04:07:09
+f14b6656-a937-4ffd-9d27-f9961fb755f3,Pamela Moss,San Antonio,Gyro,4,12.02,48.08,2025-01-21 21:25:30
+3be18e1d-b48e-4b7c-b27b-b077a7608c74,David Garcia,San Antonio,Salad,4,9.14,36.56,2025-01-02 13:43:48
+50e79fdd-8e83-44fc-9ec1-99b6babdc0bc,Angelica Graham,Dallas,Salad,3,12.46,37.38,2025-02-20 23:08:45
+2525eaa0-5fec-4d39-87f1-463ee7991367,Robin Stephens,Austin,Baklava,5,7.69,38.45,2025-02-09 11:46:57
+6f8587f2-4e64-4a71-b748-7680b1c5bc32,Jonathan Brown,Austin,Shawarma,1,12.06,12.06,2025-03-22 17:39:37
+f174cfad-f150-4685-b128-dc5a48f0fbcb,Laura Wilson,Austin,Gyro,1,6.39,6.39,2025-02-20 14:57:48
+5d73ced1-405f-4973-833f-42c4c4bacd6f,Mrs. Crystal Osborne MD,Houston,Gyro,1,7.02,7.02,2025-04-05 16:51:37
+cb099ff3-8bdb-455c-990c-6ff6bdaf1539,Jason Williamson,San Antonio,Salad,4,10.26,41.04,2025-01-15 10:52:31
+c482f725-eaa0-4368-8a26-dd4b701594e8,Dr. Sherri Haas,Dallas,Falafel,5,8.76,43.8,2025-02-23 15:50:27
+7fa16522-43d5-4d25-b743-146afd999f81,Christian Hardy,Dallas,Gyro,2,7.6,15.2,2025-04-03 00:03:16
+9a6cdd26-6493-46b3-9525-2a7f2a153529,Alexandra Murphy,Dallas,Baklava,1,7.57,7.57,2025-03-16 03:28:00
+01ed9faf-5966-44e7-9ae8-2a2a2468736f,Justin Mata,Austin,Falafel,2,11.86,23.72,2025-01-02 17:49:23
+a41b3238-272f-41da-9bbc-8ab449bf425b,Jerry Crosby,Austin,Falafel,4,13.26,53.04,2025-01-23 15:21:34
+a22f9f7e-8186-4343-9d53-e3e3ec25bff3,Andrea Kent,Houston,Falafel,5,6.98,34.9,2025-03-20 07:54:17
+c2d48571-63ca-412f-8f9f-a7616909a63a,Carrie Garcia,San Antonio,Shawarma,5,13.77,68.85,2025-02-26 08:48:33
+ae066412-9237-45bc-9869-f35ffb31b5c9,Tanya Thompson,San Antonio,Falafel,5,7.4,37.0,2025-03-30 10:08:55
+ca535e95-fd9f-4436-a7c1-8c3919745735,David Smith,Houston,Salad,5,9.65,48.25,2025-03-14 02:42:29
+f6a3dd14-cafd-4084-a2b3-5d15c3163169,John Castro,Dallas,Shawarma,2,8.45,16.9,2025-01-17 20:02:03
+7cb7c432-8b53-43bd-b3f5-44097405d0cd,Shirley Alexander,Austin,Falafel,4,6.22,24.88,2025-02-05 20:55:19
+dd2815f1-ad05-4f9a-960c-0d5984184f0f,Antonio Sherman,Dallas,Salad,2,11.33,22.66,2025-02-06 12:22:48
+6c8437a0-635b-4163-b2ab-d2ae8d177d8d,Sarah Randolph,San Antonio,Salad,4,9.42,37.68,2025-01-14 07:11:27
+ccedf7f9-9826-4e4e-82dc-131f41318519,Curtis Mcmillan,San Antonio,Shawarma,5,8.09,40.45,2025-04-01 06:03:41
+807d3919-e769-443b-b973-f9e405ecf316,Thomas Carroll,Houston,Gyro,2,14.25,28.5,2025-03-22 23:22:27
+60083f46-98d3-4f07-b0e9-397aa93c5e1d,Malik Thompson,San Antonio,Salad,2,9.67,19.34,2025-03-14 19:44:46
+e0b9ade4-764a-4fae-b553-f0c957c93189,Robert Newman,Dallas,Gyro,3,14.34,43.02,2025-04-08 09:00:31
+6f0e1b27-ef2a-4d76-b8ce-820c0804adb7,Bradley Martinez,Austin,Gyro,5,5.14,25.7,2025-03-26 19:18:54
+5029b9c6-1069-4685-a03a-4d0ea1b5d648,James Leonard,Dallas,Gyro,3,9.71,29.13,2025-02-19 15:16:25
+7a242cef-9327-4730-a06b-3294145cfa87,Daniel Greer,Dallas,Falafel,1,7.71,7.71,2025-03-24 13:25:36
+51ff0247-6786-4354-9e7b-b8b18589816f,Bradley Jones,Austin,Gyro,2,7.4,14.8,2025-01-07 23:36:20
+0399b22a-2571-4a50-98d5-f54ac1ac38cb,Edwin Ayers,Houston,Falafel,5,13.2,66.0,2025-03-12 16:49:39
+391a228a-ecaa-4a41-a979-cd3e9a3898b0,Dr. Derrick Morgan Jr.,Houston,Falafel,1,12.9,12.9,2025-01-11 08:23:16
+7e012984-1baf-4757-85b8-194aaebc72d7,Rebecca Smith MD,Austin,Gyro,5,14.47,72.35,2025-01-27 19:05:36
+618d7547-203e-4344-bf0f-cef5bdd9f440,Mary Melton,Dallas,Falafel,1,7.9,7.9,2025-02-16 15:50:12
+0715ce07-010d-43a2-890a-4bb36d3d8d2c,Alyssa Harris,Dallas,Shawarma,3,10.08,30.24,2025-02-14 05:01:30
+46c780a5-3606-4d9a-a269-64caedaf4aa4,Margaret Wilson,San Antonio,Shawarma,1,11.34,11.34,2025-01-04 21:16:11
+4776d12b-12e2-4680-a79a-af6169000e38,Benjamin Ramos,Dallas,Shawarma,5,7.11,35.55,2025-02-11 07:41:01
+c5248200-3ed1-4f17-a515-9df18336eeaa,Christopher Ellis,Austin,Salad,3,11.38,34.14,2025-03-20 01:18:02
+a11980fe-316d-450b-9aec-6693832eb215,Jeremy Kaiser,Dallas,Baklava,3,8.21,24.63,2025-03-07 17:46:22
+34bc7437-a44d-43b6-aefd-5d4397e28167,Emily Bridges,Houston,Shawarma,1,8.13,8.13,2025-01-30 02:14:04
+b739c164-6fcc-41b8-bb10-ebf8514dde3c,Mr. Christopher Huerta,San Antonio,Falafel,2,6.98,13.96,2025-02-25 21:44:08
+f59ea4f4-6590-4ae3-81c5-b9e087851506,Debra Barton,Dallas,Falafel,1,7.48,7.48,2025-02-03 06:10:33
+95aa2d5c-7183-4931-83a1-93c94429b5e9,Kimberly Nelson,Houston,Shawarma,2,7.33,14.66,2025-01-19 00:39:56
+bf1a4195-6831-40cb-bd12-0ba77896235e,Jacob Mclaughlin,San Antonio,Baklava,3,6.77,20.31,2025-03-07 02:05:17
+96af54e0-8e90-4178-9d76-ca1c084ef251,Arthur Martin,San Antonio,Gyro,2,9.41,18.82,2025-02-14 13:55:01
+92c7779d-09bb-4df0-bc6a-2a81a7f7cfb3,Amanda Rodriguez,San Antonio,Falafel,1,6.69,6.69,2025-03-23 14:24:33
+a6138eb8-a77f-4afe-8a79-74053b37772b,John Hall,Dallas,Falafel,4,5.66,22.64,2025-03-25 17:42:43
+709d47aa-a13f-4635-bde2-3b7299d5a408,Ronald Gray,San Antonio,Baklava,3,5.52,16.56,2025-03-15 04:58:16
+081cd562-166c-4882-a666-0c02c5c60b38,Jason Hendrix,Dallas,Baklava,4,7.03,28.12,2025-03-16 11:50:04
+287748fd-b3a7-425e-a48b-d7132d337be4,Cameron Jones,Houston,Baklava,1,5.12,5.12,2025-02-10 18:45:21
+4cf9e166-aa32-46ec-b4f8-6d48cc713319,Elijah Hicks,Houston,Gyro,4,10.57,42.28,2025-02-02 18:37:18
+6cd3e829-1649-4066-ae56-389134c9e52b,Nicholas Davis,Dallas,Shawarma,4,9.04,36.16,2025-02-28 15:37:25
+baccc2df-2a58-47ab-a2ef-ab9a6e4c2fcb,Jennifer Bryant,San Antonio,Shawarma,1,9.04,9.04,2025-03-24 01:09:13
+cde741f0-8d4a-413e-a3df-84b213aaddef,Brian Walker,Austin,Gyro,4,8.69,34.76,2025-03-02 21:44:53
+7c87874f-ebee-4934-96b6-bdd9dd173ccc,Anthony Gates,San Antonio,Gyro,2,13.73,27.46,2025-01-31 13:13:35
+e4d2d59f-3298-4dbd-8906-c74b5ad5cbb6,Meghan Taylor,Austin,Gyro,1,7.59,7.59,2025-02-06 06:58:01
+9e5cd03f-ca11-4fb7-adf4-25ff0e7c8d98,Jaime Casey,Houston,Salad,4,14.94,59.76,2025-01-13 12:56:29
+52651c50-88db-446c-a6c9-d921a39a0586,Luis Shaw,San Antonio,Falafel,2,7.59,15.18,2025-03-22 21:42:27
+da0534d9-37b2-4b09-ab5a-6ec0d7b9e804,Jon George,Houston,Salad,4,11.12,44.48,2025-03-15 08:15:18
+397b451a-51d4-4b8e-9342-a279299dc57d,Hailey Walker,San Antonio,Shawarma,2,5.21,10.42,2025-02-28 07:09:00
+491db926-784f-40e1-bc0e-d4fb36ad124a,Angela Bernard,San Antonio,Salad,5,9.73,48.65,2025-03-23 12:55:09
+6973e608-9c93-4294-94d2-297e03aa9675,Rick Guerrero,San Antonio,Baklava,3,8.82,26.46,2025-03-07 22:47:02
+9bb80a36-fd13-4a64-af23-3cd5001501b3,Justin Washington,Dallas,Falafel,4,10.8,43.2,2025-01-30 20:17:59
+2ed8e401-d00e-4daa-a185-3b9b965a74d4,Joseph Pugh,San Antonio,Salad,4,13.52,54.08,2025-03-08 16:23:26
+a94a63e9-85a8-492b-89d1-655b7689c068,David Stewart,Austin,Gyro,3,12.16,36.48,2025-04-03 16:36:55
+713d968f-bf02-4c31-97d5-d13c78876c88,Molly Martinez,Dallas,Baklava,5,8.2,41.0,2025-03-05 11:29:23
+5b517964-e85d-4f29-85ba-79723c393911,Amanda Knight,San Antonio,Gyro,4,9.98,39.92,2025-01-12 17:19:35
+01731909-68d2-4ee7-8b19-d212f1d5f50a,Brandon Rivera,Dallas,Gyro,5,7.1,35.5,2025-02-22 03:45:19
+ea11eedf-08e8-40c0-b754-800faf1c56b8,Hannah Luna,Houston,Salad,1,13.47,13.47,2025-01-27 20:08:52
+3edf5065-8358-43b3-9d97-c416292189c8,Michael Hansen,Austin,Gyro,4,7.56,30.24,2025-03-15 22:01:26
+7b98afd5-1242-4ba8-a997-010f058e66f5,Chad Johnson,Austin,Shawarma,5,7.03,35.15,2025-03-18 02:30:12
+29678f68-aac4-4a70-8fad-e8b220e54916,Brittany Murphy,Houston,Baklava,5,13.33,66.65,2025-02-02 08:10:39
+253fb40c-9e8b-465e-bb5f-82bb23774c95,Sheila Singleton,San Antonio,Baklava,5,12.12,60.6,2025-04-08 07:58:34
+f7183850-d243-406e-a921-0862032e5e91,Jessica Perry,Dallas,Baklava,2,14.21,28.42,2025-03-03 04:01:40
+1c75074a-5adb-474f-ab98-a30d93576312,Joseph Gomez,San Antonio,Baklava,5,11.51,57.55,2025-01-10 01:19:28
+04859481-1d07-4f62-a637-471bc0a9e325,Kenneth Johnson,Dallas,Baklava,3,14.82,44.46,2025-03-15 05:17:15
+591b88e7-91a5-4ed7-97c9-23ae65321f79,Kayla Long,Austin,Baklava,2,13.65,27.3,2025-01-03 00:27:44
+03f9ac6f-7785-47d9-b9b3-f861e7dc2eb5,Sean Fowler,Austin,Gyro,1,9.71,9.71,2025-02-22 11:30:26
+f8d29c24-c1bd-400f-aa21-1f4380a29134,Heather Fischer,Dallas,Falafel,4,5.02,20.08,2025-03-31 16:10:41
+8dffd5e4-477d-4e8e-8e3d-30a17f082317,Amber Mendoza,Houston,Gyro,2,5.41,10.82,2025-02-27 22:56:29
+2d58430c-5766-4fda-a125-125271762a26,Margaret Washington,Dallas,Baklava,3,8.02,24.06,2025-03-20 18:23:35
+1a8c54b8-75c3-43f3-9cac-eb125988fdf4,Wanda Williamson,San Antonio,Baklava,5,9.36,46.8,2025-01-19 00:42:35
+16912a84-c2a4-4eba-93df-d20806134681,Curtis Harris,Dallas,Gyro,4,13.04,52.16,2025-03-28 01:29:33
+28f61edd-d3aa-405c-b99b-8d51e4fddf84,Wesley Webb,Austin,Falafel,2,7.95,15.9,2025-02-18 21:20:45
+bb085baf-8e17-442d-926a-6e035af51235,Jon Lopez,Houston,Gyro,3,14.81,44.43,2025-01-24 23:16:23
+8b84b965-0ffd-4947-a25c-ab6133f87e39,Brandon Freeman,Austin,Gyro,1,14.12,14.12,2025-03-17 05:53:14
+4ba2355e-2e54-425d-86c0-403f60d14f81,Donald Koch,Dallas,Baklava,4,6.27,25.08,2025-03-16 20:37:58
+f0fc21c2-d7d5-49c5-9983-a67d9b05c3d8,Brent Williams,Austin,Salad,4,9.81,39.24,2025-02-14 14:06:34
+845dd8ee-6771-4bee-be20-d54527e1b770,Richard Mccoy,Dallas,Baklava,2,11.49,22.98,2025-03-19 12:36:56
+798c8388-d270-467c-ad2f-ede817aad22d,Zachary Barry,Houston,Gyro,5,9.87,49.35,2025-02-11 00:16:52
+9f330435-98c2-4553-986a-510b85370248,Richard Nelson,Houston,Gyro,1,8.67,8.67,2025-01-26 16:30:17
+f466c5d4-56c1-494a-bcfa-bbb3e488188b,Denise Cline DVM,San Antonio,Falafel,4,6.32,25.28,2025-03-13 05:45:55
+250be55e-792a-4349-9bb0-372da06f2ddf,John Larson,Houston,Salad,5,14.87,74.35,2025-01-18 07:35:34
+9b896eed-6a03-4d02-a416-34002aebd7ad,Robert Garrison,Houston,Salad,1,7.47,7.47,2025-02-06 06:53:34
+74b8de5c-5065-47a9-aaf7-7c0cb30865b0,Beth Bryant,Austin,Falafel,3,8.98,26.94,2025-01-08 11:43:34
+6696ea9a-2720-432c-b83e-42a09350b99c,James Bernard,Houston,Shawarma,4,11.69,46.76,2025-03-19 09:57:36
+1f5a8afb-de35-44c1-86c7-91d4c6f18001,Todd Hendricks,Austin,Baklava,1,6.86,6.86,2025-01-03 01:25:08
+62fac8d5-8855-4da7-93be-ab6eabb7bd22,Heather Cooper,Austin,Falafel,4,13.05,52.2,2025-02-12 06:07:22
+550e2f2c-d7b9-4ab7-97d6-afafb35b44d3,Wendy Henderson,Houston,Falafel,5,7.45,37.25,2025-04-07 04:47:35
+f6da2bc8-ea14-471a-9e0e-98c94ab26339,Christine Leach,San Antonio,Gyro,1,13.65,13.65,2025-03-24 05:56:27
+993a15ed-59f1-4e52-9426-1b54df34a26d,Rachel Foley,Austin,Baklava,3,12.17,36.51,2025-03-12 22:46:27
+c6b01c7f-644a-4c00-a39c-4042d9028010,Jasmin Keller,Dallas,Gyro,4,6.38,25.52,2025-02-03 05:04:44
+82501b45-0e12-4e54-ad06-ea32b321004d,Michael Harrington,Houston,Falafel,4,13.13,52.52,2025-02-18 21:45:06
+50efda4a-0c54-4fa7-87db-8bbde4ccd090,Sarah Hinton,Houston,Falafel,5,5.39,26.95,2025-02-09 20:25:38
+7d893c72-6dfd-4e0e-9891-f98757d1e146,Anita Hayes,San Antonio,Salad,2,10.54,21.08,2025-01-21 22:59:42
+6bfecef3-418f-42e6-86c5-2d07097e49a4,Jade Ritter,Dallas,Falafel,1,9.75,9.75,2025-03-15 11:46:55
+79257a90-41d0-4d7f-846a-29dd3dcb1271,Debra Johnson,San Antonio,Falafel,2,10.18,20.36,2025-01-13 07:51:59
+22661261-868f-49e9-bdea-b3c4a8eead57,Susan Phillips,Houston,Shawarma,4,11.54,46.16,2025-01-06 00:51:52
+414c0c3c-edd7-4ee9-9309-90ce48aa9c15,Ashlee Nguyen,San Antonio,Gyro,1,9.62,9.62,2025-01-17 16:29:32
+c01d9ce7-9dd7-42dd-a2a5-b18b7b2ba917,David Phillips,San Antonio,Baklava,4,8.4,33.6,2025-04-02 20:33:18
+dea44e89-27a1-4ff4-80fc-d2621768683b,Marissa Hays,Austin,Falafel,5,7.53,37.65,2025-01-22 10:47:34
+2cd05a2b-3057-4e6c-91e3-a3da2896df46,Deborah Leon,San Antonio,Shawarma,1,8.36,8.36,2025-01-10 19:34:29
+f8bee642-8aa6-4bbc-95e5-9a7624a299dd,Robert Perry,San Antonio,Salad,2,12.13,24.26,2025-04-03 17:10:10
+876b83da-6ea8-41e3-8ef3-e3661bf9bb65,Terry Dixon,San Antonio,Baklava,2,14.48,28.96,2025-01-23 10:41:09
+2ee042ef-b4e1-4ad3-aac5-1af925dc67b4,Jason Bruce,Austin,Gyro,5,7.86,39.3,2025-02-08 14:16:49
+5a6ad289-198e-4fed-b44f-42ed6ef481c3,Matthew Sawyer,San Antonio,Gyro,5,6.72,33.6,2025-02-10 10:50:16
+d42bbd09-e89a-4623-87c7-d1b635e5eae5,Lisa Lane,Austin,Falafel,1,13.85,13.85,2025-04-03 06:20:05
+1daa78cf-0c5b-4939-af13-ee61b152436e,Kristen Booth MD,San Antonio,Gyro,4,7.03,28.12,2025-04-02 11:29:38
+ac346ae3-bd9d-4aec-9daa-4646cec1166b,Angela Woods,Austin,Shawarma,2,9.38,18.76,2025-02-03 08:51:01
+5d9bf63f-9f52-4db9-a8ec-800595ce6b45,Tyler Hines,Houston,Shawarma,5,6.65,33.25,2025-03-11 02:53:49
+da651455-a47e-4c61-b88f-7bd29f3d5be1,Connor Pace,San Antonio,Gyro,5,8.1,40.5,2025-04-03 05:15:07
+6a0c3774-5ba1-4d6d-8aab-e9fd75b8bc96,Richard Thomas,Dallas,Shawarma,5,14.6,73.0,2025-02-11 12:11:36
+a3a63ae4-1bf1-472f-84d6-002b630404b5,Dawn Parsons,Austin,Shawarma,2,10.03,20.06,2025-03-12 16:51:30
+994b5490-e403-4d59-ab4c-5aeb3031977e,Joan Rosales,Austin,Falafel,4,10.45,41.8,2025-03-09 07:13:17
+5711d659-0aee-41cc-9425-59a33ce2dfeb,Randy Avila,Dallas,Gyro,4,6.92,27.68,2025-03-10 23:21:45
+f6857c2d-2ed7-4f75-b17d-aa03742f0b22,Sherry Miller,Houston,Baklava,3,13.47,40.41,2025-03-30 13:58:27
+583a007d-12c1-40f6-82c6-88241f3f0792,Lisa Hubbard,Dallas,Salad,2,11.59,23.18,2025-03-25 08:31:58
+00cbef5d-04e2-48a1-86bd-49a26975d2d3,Kimberly Robinson,Austin,Shawarma,3,7.46,22.38,2025-03-28 13:24:53
+a09f68e7-0aec-475d-a800-25d3466a646e,Brandon Davis,San Antonio,Gyro,5,7.63,38.15,2025-01-29 23:05:46
+5b18cf0d-f61c-495f-8c54-6a698f487424,Lisa Ramos,Dallas,Shawarma,2,8.58,17.16,2025-01-29 01:46:43
+a5b94d92-b31e-4ec7-810e-15f3b941b3d3,Lisa Khan,Dallas,Shawarma,2,12.79,25.58,2025-02-15 10:57:00
+8f12e236-f129-4ae6-a38c-bb54cefd0bbd,Jeffrey Smith,Austin,Falafel,1,12.46,12.46,2025-01-07 02:38:22
+14c0083d-2f12-4ac1-b63c-3eea4ae15a78,Ms. Deborah Castro,Houston,Falafel,3,14.46,43.38,2025-02-22 00:07:43
+e2fca4ff-69a3-4f84-a451-f9bca95107e6,Allison Reynolds,San Antonio,Baklava,3,6.28,18.84,2025-01-29 07:46:43
+7dec413b-4d49-49c8-8b83-07895258f035,Gina Guzman,Dallas,Baklava,2,5.07,10.14,2025-03-19 19:06:47
+4705f0af-93c4-4421-a6a4-21114e8c68ba,Marcus Crawford,Dallas,Gyro,2,5.76,11.52,2025-01-31 08:05:44
+1f60f390-e6e2-4c6f-872c-d763d9ac54bc,Kyle Sanchez,San Antonio,Salad,4,9.04,36.16,2025-02-26 21:00:30
+38b41b2e-eba3-4bca-b9eb-878fe80083b5,Tyler Myers,Houston,Gyro,3,7.26,21.78,2025-02-02 21:42:42
+8c9da162-08f1-43f7-8f60-14091c11d17a,Becky Barnett,Houston,Baklava,4,10.47,41.88,2025-01-11 18:19:25
+71227a30-5726-4b83-83a5-d2c63a7ac3ad,Devin Ballard,Dallas,Shawarma,3,5.62,16.86,2025-01-10 19:28:31
+91fa143a-facc-4072-8ba8-82f5968a7d92,Joel Keith,San Antonio,Baklava,1,12.45,12.45,2025-03-17 13:37:31
+e90dcd46-db33-4ec0-8d3d-703d713cd401,Daisy Martinez,Austin,Falafel,3,8.51,25.53,2025-02-02 21:24:51
+34e185f0-4ca7-445d-a98c-826c5b373240,Alexandra Harding,Austin,Shawarma,5,9.53,47.65,2025-01-01 13:48:37
+979e227c-ea72-4bc9-9baf-2657e43b264a,Jordan Phillips,San Antonio,Baklava,2,12.91,25.82,2025-01-27 14:19:33
+348a16b6-c40a-4edd-9607-cd87115d0d57,Michael Torres,Dallas,Salad,4,14.66,58.64,2025-02-04 00:21:05
+fa4f8df3-07a0-457e-8083-8b5733ad8322,Kathleen Stokes,Dallas,Falafel,3,10.21,30.63,2025-01-03 12:28:57
+aaa15bfc-08df-4d5c-ad3a-59335da8d30b,Lori Barker,Houston,Baklava,2,9.96,19.92,2025-01-11 08:38:53
+f2097910-225b-48cf-89a0-cd0de30b34f8,Kevin Adams,Dallas,Salad,3,9.57,28.71,2025-01-06 06:29:27
+e980b593-4a28-4987-a814-673a517180d7,Stephanie Brown,Austin,Falafel,3,11.07,33.21,2025-01-25 05:16:58
+3f3ec72a-4aba-4b7d-8882-a80bae93e102,Elizabeth Wilson,Dallas,Baklava,1,13.07,13.07,2025-01-06 15:27:14
+954e0fe3-f0f6-424b-bc1f-732ba02c9d95,Francisco Riley,Houston,Gyro,4,10.46,41.84,2025-03-08 07:02:53
+184b0a76-3cbe-4cb7-b12e-8e9b5e4e7583,Joseph Smith,Austin,Salad,2,5.09,10.18,2025-01-07 00:13:01
+9c41f968-8e65-4009-8bf7-b2471cc9c632,Troy Strong,Austin,Salad,2,7.5,15.0,2025-02-16 05:07:38
+23be0431-5997-44b7-98ae-90253842233b,Allison Mitchell,San Antonio,Shawarma,1,11.22,11.22,2025-03-09 07:46:44
+d58d5a42-59bc-437c-8b7a-e42ed38455b1,Jessica Davis,Austin,Salad,1,5.24,5.24,2025-03-22 11:39:23
+ea34706a-868d-442f-bb9d-a3636a0173f5,Brian Contreras,Dallas,Gyro,4,10.14,40.56,2025-04-04 22:46:44
+c71e568d-1179-41e4-a545-643df5710250,Michelle Wilcox,Houston,Falafel,5,5.61,28.05,2025-02-16 05:30:05
+ca0b19cf-6b3e-4907-bcdb-75c3d6e9e9f6,Teresa Jimenez,Austin,Baklava,3,14.97,44.91,2025-01-19 13:37:13
+24a62afb-780e-4358-a978-5f0cb115973b,Amanda Wilson,Austin,Salad,4,11.75,47.0,2025-02-15 23:37:26
+9453cd53-bf5d-4992-be2b-6fd3cba096fb,John Wagner,Austin,Baklava,1,6.12,6.12,2025-01-05 08:10:49
+28a03623-767f-4e74-80ae-8c15b85a5612,Tony Pierce,Dallas,Falafel,2,12.58,25.16,2025-02-17 05:33:22
+9790b3a7-7ace-4b12-ad8b-e3fa4f92e785,Tiffany Olson,Houston,Baklava,1,11.88,11.88,2025-02-15 13:56:44
+9d1662c7-ad56-494a-96c8-8c3f13b16618,Jennifer Thompson MD,Houston,Gyro,4,6.81,27.24,2025-01-01 18:20:12
+fa7f31f8-8e09-49bd-9476-81fc1fc96c08,Mark Jackson,Houston,Shawarma,5,8.56,42.8,2025-03-26 22:43:04
+c13fe8b3-943a-4cb2-b1fe-5273d447c8bf,Dustin Freeman,Dallas,Falafel,2,12.37,24.74,2025-02-17 08:56:22
+030e97c2-c914-482c-a9d7-36aae84949cb,Elizabeth Hudson,San Antonio,Baklava,2,12.82,25.64,2025-02-09 12:13:49
+b5bb4089-267d-46ec-b16c-4b5cf4db312f,Dr. Samuel Brown,Dallas,Shawarma,2,7.13,14.26,2025-03-04 08:50:12
+6e522ecf-c8d8-43e5-a346-1c2054bfdf81,Mr. Michael Contreras II,Houston,Falafel,1,14.23,14.23,2025-01-11 11:18:52
+d5a53b32-8801-4ca1-b089-aafce61721f9,James Peterson,Houston,Shawarma,3,5.77,17.31,2025-03-14 15:06:03
+f0e0942d-c18b-478c-9090-e7d31f150921,Michael Austin,Dallas,Shawarma,2,14.71,29.42,2025-02-22 07:07:26
+334464ee-c726-4645-83f5-e98ea2be8f3a,Curtis Wilson,Austin,Salad,5,10.64,53.2,2025-01-06 01:06:45
+763f8ad2-2636-4f9c-9314-025a47b8ad2f,Michael Meyers,Austin,Shawarma,4,5.72,22.88,2025-03-19 00:32:49
+37c83569-b85b-4d10-83ef-ef58d07b991b,Victoria Matthews,Dallas,Salad,3,7.91,23.73,2025-01-04 09:35:07
+631a50d3-f81c-4534-965e-b91154a41b9d,Melissa Kelly,San Antonio,Salad,3,7.01,21.03,2025-02-08 18:19:12
+7c531b3d-9006-4340-bf72-fd546a944a6a,Natalie Buckley,Dallas,Salad,3,7.89,23.67,2025-03-21 16:14:57
+2663f1af-74ae-4271-8562-45554c2548c7,Justin Johnson,Houston,Gyro,2,12.98,25.96,2025-03-14 10:41:58
+7fde36e9-386d-4c63-b2ac-a90c073d2da3,Darryl Barrett,Austin,Shawarma,4,6.5,26.0,2025-02-22 08:43:40
+fc2eadf2-ec74-49aa-8129-0ab2900e124f,Charles Reilly,San Antonio,Gyro,2,14.51,29.02,2025-02-11 03:40:28
+1ea57721-6aeb-43d0-9402-e484ad7d8a1c,Cesar Roach,Austin,Baklava,1,11.45,11.45,2025-01-20 04:25:15
+bdadd879-2fdf-4801-a86a-25eb061ec088,Gregory Carter,Austin,Baklava,1,5.36,5.36,2025-03-03 23:45:24
+ca34f35c-7be0-4d14-8c64-10ffd7350b85,Eric Holden,Austin,Falafel,1,6.03,6.03,2025-04-05 22:10:22
+001658bb-99a5-4a7a-89a8-aeddfad62b35,Luis Chang,Houston,Falafel,3,12.37,37.11,2025-02-12 13:37:37
+05e00387-f707-4c75-91ea-a525d5b3f9b4,John Higgins,San Antonio,Gyro,1,10.69,10.69,2025-02-02 23:24:13
+31fed70e-6c5d-45b1-bfd6-65510ccc0ed4,Brandon Fuentes,Houston,Shawarma,2,8.19,16.38,2025-01-22 04:37:13
+20f4b86d-6035-4d47-8b2f-ca15488da2fa,Scott Roach,Houston,Baklava,2,13.23,26.46,2025-03-05 00:13:30
+9f7b21be-87e0-4da1-b855-d3e6d685b704,Brittany Guzman,San Antonio,Salad,5,9.07,45.35,2025-02-27 10:12:24
+68c9b9cc-ae80-473e-a21e-4392ad660859,Michael Baldwin,Dallas,Salad,5,5.26,26.3,2025-01-21 22:16:32
+c41b2dd0-021e-48f7-a32a-354ba1763c25,Bernard Hardin,Houston,Gyro,1,8.67,8.67,2025-01-17 09:23:22
+4652dba9-f8c6-46d5-8725-eef64ed42014,Edwin Salinas,San Antonio,Gyro,5,8.41,42.05,2025-01-10 04:36:11
+3b7c097f-14fb-4919-9b3b-00112fcd0550,Jose Nguyen,Dallas,Falafel,4,13.73,54.92,2025-01-18 06:38:22
+35e1e400-ed40-4e0f-b009-d32db5d7da93,Todd Bush,Dallas,Falafel,3,11.23,33.69,2025-01-15 02:02:49
+16c0b863-464d-4efd-b62c-1a744a21dcd7,Daniel Colon,San Antonio,Shawarma,2,7.61,15.22,2025-01-13 05:14:44
+cf3af3ab-6b37-434b-9cb6-5404eca9c972,Andrew Middleton,Houston,Shawarma,4,5.55,22.2,2025-01-27 03:50:45
+8c3a4485-e550-4280-9266-71183a746bcb,Lisa Washington,Dallas,Falafel,2,8.99,17.98,2025-02-28 05:05:10
+114fd1c3-dd7c-4103-9b99-4bf57311a835,Justin Baker,Dallas,Gyro,3,5.91,17.73,2025-03-26 12:01:05
+3620a8d5-42df-4215-8bf1-6c49a0069992,Carla Morales,Dallas,Falafel,2,13.04,26.08,2025-01-19 19:46:01
+f83ede0b-5c19-49ab-bf9e-3779111098d6,Judy Browning,Dallas,Gyro,5,10.1,50.5,2025-01-10 16:29:17
+16d45d8c-e0d2-4e5e-90b0-badc20f01293,Thomas Lewis,Austin,Shawarma,3,11.44,34.32,2025-03-17 15:09:11
+0127e22c-cee3-47cd-9dcb-87efea6fec29,Brooke Fischer,Dallas,Gyro,5,12.02,60.1,2025-01-01 21:44:38
+3ce66014-47e1-4594-a0dd-a7a36c7e6a18,Amanda Gutierrez,Houston,Salad,5,5.84,29.2,2025-03-14 02:11:08
+c02ef62c-3df0-402b-827a-0226e2a9b914,Fred Young,Dallas,Baklava,3,6.9,20.7,2025-01-24 23:10:30
+dc1ecf5b-4462-49da-b0d0-5369d22fc8ea,Theresa Brown,Austin,Shawarma,4,9.47,37.88,2025-01-31 11:12:19
+9b1db4fe-8703-418d-b588-374d631ca4a0,Lisa Harris,Houston,Baklava,5,11.17,55.85,2025-03-10 05:35:30
+819460b4-0c35-4814-93df-80495d6351bf,Pamela Butler,Houston,Shawarma,1,11.58,11.58,2025-02-26 14:10:44
+4be8a44b-9232-4fb1-b8cf-500a8c7ffa8d,Kara Madden,Dallas,Shawarma,1,7.98,7.98,2025-01-13 07:38:18
+ca84a5a0-bb19-4c87-b091-0e3146cd2d46,Meagan Graham,Dallas,Falafel,5,14.69,73.45,2025-03-31 13:19:43
+504d5fc4-db83-4b85-b383-ecaa677911fe,Robert Morris,San Antonio,Gyro,4,8.56,34.24,2025-03-08 05:19:05
+6542652e-53d7-498b-aa80-98716b6bbb01,Nicole Hancock,San Antonio,Shawarma,1,13.98,13.98,2025-01-06 03:31:36
+da3c047f-bf48-4575-9c4c-54821f7b1cd3,Kendra Anderson,Houston,Falafel,3,6.08,18.24,2025-03-25 18:57:49
+38af317b-4d11-4e3a-a1cd-c5382394d73b,Diane Tyler,Austin,Falafel,5,5.8,29.0,2025-01-28 01:35:42
+d1eeeb6e-7498-4522-85ff-b3f7fcf141cc,Tracy Ortiz,San Antonio,Gyro,2,10.27,20.54,2025-02-17 20:06:27
+0a531ad3-5541-476a-ba6a-0a5060fe916b,Angela Wiley,Austin,Baklava,4,9.65,38.6,2025-03-24 23:27:49
+aacc9506-7247-4918-acf0-b1647f3fddad,Stephanie Pope,San Antonio,Salad,3,8.33,24.99,2025-03-12 18:30:12
+9952ccec-45da-4c06-8a9b-ab7498a3b7f5,Eric Hodge,San Antonio,Salad,1,5.25,5.25,2025-01-12 15:49:54
+db678cf0-6ee3-40ed-bf0b-d1bb010e44cc,Julie Cantrell,San Antonio,Falafel,1,10.08,10.08,2025-03-20 17:29:04
+e41d8ff5-65b5-427e-9e12-170f2ff2a12e,Samantha Castillo,Dallas,Gyro,5,7.18,35.9,2025-02-15 18:10:30
+77cac498-9eb3-435b-9c6f-80be55c313a8,Michael Fields,Dallas,Baklava,4,11.39,45.56,2025-04-07 13:23:23
+087a5c4c-028a-437c-ba9d-8324c908fec3,Jonathan Klein,San Antonio,Baklava,1,10.54,10.54,2025-01-03 18:48:34
+f7c879e3-6c3c-47ef-9b7b-91624fac562d,Katherine Thompson,San Antonio,Shawarma,1,9.48,9.48,2025-01-01 22:36:20
+f48b3b72-2d19-4f08-bbea-412def15b1be,Patrick Phillips,Houston,Gyro,1,14.93,14.93,2025-02-15 22:29:53
+049a8143-7992-45d5-b5c7-4fea8f565f2e,Jennifer White,San Antonio,Baklava,1,8.18,8.18,2025-03-27 21:57:57
+0756593e-c6c5-478b-aca8-7459bb9d30f3,Christine Oconnell,Houston,Falafel,2,6.72,13.44,2025-04-06 02:46:38
+62c9fecf-2fe6-47be-b998-e2f0e6dcc839,Scott Roach,Austin,Falafel,4,15.0,60.0,2025-02-20 03:11:33
+6fb0318b-e4d5-4423-b802-f73c6320607e,Yvonne Gibbs,Austin,Shawarma,4,8.36,33.44,2025-04-01 00:48:56
+4a15dbcc-1b0e-494f-af6a-dcd14dbc8e6b,Theresa Jones,Austin,Gyro,2,10.78,21.56,2025-03-09 01:26:54
+3c6a0e64-f44f-478e-85f3-3540a0e06af8,Albert Swanson,Austin,Gyro,3,10.87,32.61,2025-03-29 21:15:16
+c5f0cbd8-48f3-4416-94eb-7eed8cb1d0b9,Jasmine Spencer,San Antonio,Salad,2,11.96,23.92,2025-03-22 19:47:28
+58436a8e-fc7d-497d-8c5e-87d4df7c6708,Sarah Avila,Austin,Shawarma,5,5.37,26.85,2025-01-25 06:37:53
+4a04f4a8-ba87-40fe-b3b4-a1e6ebd2f4ac,Brandon Huffman,San Antonio,Gyro,5,8.49,42.45,2025-04-04 10:46:23
+e7c4e527-337d-46f6-a368-c10c7d551ca1,Kyle Collins,Dallas,Shawarma,5,9.21,46.05,2025-04-02 11:05:02
+52d55f86-35b6-4827-86ee-87b4e27de8de,Bianca Hawkins,Dallas,Salad,3,7.91,23.73,2025-02-17 02:42:04
+a1d03893-0b6e-4267-847d-40ed1f6bf63a,Nancy Ingram,Austin,Gyro,2,11.18,22.36,2025-01-27 06:43:03
+3561d24e-575c-4bc7-872b-d44c8fd8e257,Scott Moore,Houston,Salad,2,8.37,16.74,2025-01-15 19:37:59
+373329e1-9883-4dd6-a067-51855607752a,Jonathan Montoya,Dallas,Baklava,3,6.08,18.24,2025-01-05 11:09:36
+f110c07a-d51f-4a43-933c-8f4faf122e20,Laura Owens,Dallas,Salad,4,10.86,43.44,2025-02-10 17:25:36
+85ecfafc-7d04-429a-8641-9efd67b04752,Paul Chapman,Houston,Falafel,5,10.65,53.25,2025-01-11 02:19:10
+3ab1533e-b3b3-4bdf-90d8-adcd5cc5635d,Donna Davis,Dallas,Salad,5,11.85,59.25,2025-02-24 21:36:08
+9fea0c5d-de6a-4df2-9155-f790310f09c6,Marc Davis,Dallas,Gyro,5,8.13,40.65,2025-03-06 19:12:33
+11f5ee63-23ba-42c1-a026-2f88306a3b07,Steven Reeves,Dallas,Shawarma,4,5.5,22.0,2025-02-21 10:13:30
+ced6032b-b968-45d4-9cb4-c1ed6767c08b,Linda Wade,Dallas,Salad,2,9.37,18.74,2025-01-13 03:02:24
+cb1bdd34-1e4f-426f-88a2-8429385dd33b,Alan Choi,Austin,Falafel,5,9.74,48.7,2025-01-30 05:26:46
+499eaef1-1e4f-4a3e-90cf-caeea1e06241,Brittany Gomez,San Antonio,Salad,3,6.99,20.97,2025-02-27 18:19:09
+5c4cf442-5576-4786-ad28-9133de6d78f0,Henry Jackson,Austin,Falafel,2,11.28,22.56,2025-02-28 16:01:28
+b531cc67-2433-4a6c-9173-45e7ee11b2b0,Jeremy Mclean,Dallas,Gyro,5,9.19,45.95,2025-03-03 03:46:34
+d2dab8af-79c1-4335-ab1f-dd19a7b7a14c,Jacob Brown,Houston,Shawarma,2,6.85,13.7,2025-02-17 17:26:35
+191a4979-ec1d-42a6-b5e3-46f1d4f7c123,Kayla Reid,San Antonio,Falafel,4,10.65,42.6,2025-02-15 09:52:32
+3ee5a04f-2768-4b8c-a641-d49570d45abf,George Austin,Dallas,Falafel,2,8.12,16.24,2025-02-28 01:36:18
+5d28cf73-4cbe-47a1-8820-9d8609732d4d,Shelly Mullins,Austin,Shawarma,1,9.78,9.78,2025-01-17 15:59:26
+785c452e-8062-4dcc-b5e5-a40f8558c94f,Mr. Daniel Baker,Austin,Falafel,4,10.82,43.28,2025-03-10 10:22:20
+b45bbca0-485f-45a6-be86-9cd06426872f,Joseph Robles,Austin,Baklava,4,11.15,44.6,2025-01-21 09:32:04
+e6843033-edfb-4c63-baef-634c0c750ec1,Ryan Hall,San Antonio,Baklava,1,8.78,8.78,2025-03-07 10:32:14
+dd2e5d6e-c5bf-4189-b2be-c7383a0e5a0a,Jack Golden,Houston,Gyro,2,9.76,19.52,2025-03-04 01:25:27
+b5924a42-3441-485c-92ac-3ed6385ab5a1,Christina Hall,San Antonio,Salad,2,10.39,20.78,2025-03-24 23:21:36
+258a2029-6f06-40aa-ae39-3e3172375cd4,Juan Mitchell,San Antonio,Falafel,3,8.81,26.43,2025-02-27 11:08:22
+fbc43d6a-e081-46ed-9a5d-ea89f6c9d620,Justin Kirk,Houston,Salad,4,10.74,42.96,2025-03-11 07:17:02
+7c28bcca-587e-4ef6-9379-9ad3314f65e9,Mario Davis,San Antonio,Falafel,4,8.13,32.52,2025-02-16 12:44:13
+b552e465-bb15-4cbd-8256-6b654885bbd7,Patricia Page,Austin,Gyro,3,11.37,34.11,2025-02-23 16:11:51
+2641e492-0799-4123-8514-62c7e9102ed3,Christy Howell,San Antonio,Shawarma,2,6.16,12.32,2025-04-03 09:24:22
+65a255e2-75d5-4cb5-bf5f-da375e87d714,Alicia Hart,Dallas,Gyro,1,14.6,14.6,2025-03-07 11:43:57
+b1e0b4a9-5c94-4584-8350-c4df7b6dd296,Bryan Sloan,San Antonio,Falafel,2,14.71,29.42,2025-02-26 02:42:05
+de274ad1-ff16-4602-98bf-93590f2b4f6d,James Miller,Dallas,Salad,1,12.3,12.3,2025-03-07 14:28:30
+ea93a34e-0ac9-4024-a3fc-aa319c02dab0,Richard Merritt,Austin,Shawarma,5,11.0,55.0,2025-02-06 05:37:26
+09a7af0a-746d-4eed-b1d7-d2b981f61ed5,Robert Boyer,Austin,Salad,3,7.08,21.24,2025-03-01 08:43:16
+7a297354-4a6a-4292-b657-00cab2b7c81e,Charles Watson,Austin,Shawarma,3,12.34,37.02,2025-01-22 05:37:37
+3cada1d6-334b-40ad-bb72-8eb2a47b74bb,Kyle Conway,Austin,Gyro,5,9.43,47.15,2025-02-01 13:15:19
+e1ed063c-8624-434e-8a4f-9e6c505537f6,Christopher Jones,San Antonio,Baklava,3,5.31,15.93,2025-01-26 13:00:10
+0b902256-4f4f-488f-990a-e839d7becdcb,Lydia Sheppard,Austin,Falafel,5,8.95,44.75,2025-03-04 21:04:34
+ce7a8df7-5314-481f-b93c-1bc2219961ef,Daniel Malone,Dallas,Gyro,2,12.54,25.08,2025-03-23 08:07:43
+99abd9fe-d59b-48da-8d95-27496b91ada0,Robin Adams,San Antonio,Falafel,4,5.72,22.88,2025-03-16 07:33:22
+2c2fc8f8-bb86-4a8f-81ad-0cd4f10c4a1d,Glenn Rodriguez,San Antonio,Gyro,5,5.35,26.75,2025-01-08 06:22:08
+7ad64dbb-0070-4ba4-90ca-a121c95ecf88,Craig Jacobs,Austin,Falafel,3,14.86,44.58,2025-02-15 14:05:08
+37f026e6-e9b1-42d5-b5c6-0f9ce465a44c,Donna Martin,Dallas,Salad,3,9.16,27.48,2025-03-26 20:46:40
+8dcf4a3f-e324-4a66-b79e-efa1da5abf12,George Gibson,Dallas,Gyro,2,5.15,10.3,2025-04-07 22:58:46
+5ad20cdc-7ec6-4aaf-8905-bc4b000cc8a8,Melanie Phillips,Austin,Salad,5,11.18,55.9,2025-03-01 02:29:31
+26516dbc-3a4e-4382-9555-68af2530793f,Mark Flowers,Austin,Shawarma,1,6.88,6.88,2025-03-13 13:24:02
+4b3ccb2a-db3c-4c88-aa9c-02f772d55bb6,Maurice Fisher,Dallas,Baklava,5,13.25,66.25,2025-03-06 07:55:52
+5214d945-59ef-4792-9abc-d6731d34c02b,Thomas Barnett,Houston,Falafel,1,12.91,12.91,2025-03-02 12:06:36
+bbd892fd-c5bf-4e76-b822-a1bce430749a,Paul Green,San Antonio,Salad,4,5.46,21.84,2025-01-13 02:38:23
+718a1fce-3f06-41b4-b180-9fbd063c449f,Tami Harris,Houston,Salad,1,5.3,5.3,2025-04-06 05:13:38
+8a5b6576-5a7d-44b4-9102-ba3e92e6cf49,Walter Maddox,Houston,Gyro,1,14.71,14.71,2025-04-01 13:45:09
+563d22ce-0dfb-4e5a-b60e-c0dd66410543,Beverly Brown,Austin,Gyro,1,9.62,9.62,2025-02-22 10:19:17
+6e7131c1-a982-457e-a133-52f064e55957,Mindy Smith,Austin,Falafel,1,10.18,10.18,2025-03-11 00:13:28
+0136625a-39f9-488a-97ca-279c85ec1034,Brittany Dunn,San Antonio,Baklava,1,11.76,11.76,2025-03-08 10:44:16
+7a035902-4954-4197-ba26-3a8ad96c42cf,Travis Walters,San Antonio,Baklava,5,5.36,26.8,2025-03-12 01:47:57
+c6e2bd9f-d089-44c3-9a32-a8b771882a96,Vanessa Stephens,San Antonio,Salad,1,11.18,11.18,2025-03-02 22:46:53
+f5c0b38a-c3b3-4699-ace8-cf15f795bd81,Bruce James,San Antonio,Shawarma,4,5.14,20.56,2025-02-02 12:05:57
+efcc59c5-d5d3-4a03-9578-7dfda5548a0e,Claudia Cabrera,San Antonio,Baklava,5,9.87,49.35,2025-02-15 01:07:05
+9728f780-d969-4423-a968-57d5bb3836e1,Jonathan Williams,Houston,Shawarma,1,14.39,14.39,2025-02-17 09:29:16
+8d87ae43-30d8-470e-9f7a-20017d93c992,Amanda Rogers,Austin,Baklava,4,8.59,34.36,2025-02-28 07:07:30
+942978ad-6f11-4167-b024-ecd972d4c5b5,Jennifer Harris,Austin,Salad,1,13.86,13.86,2025-01-30 18:45:09
+625361cf-cbcb-49b9-828b-1338b643cff2,Christopher Brewer,Austin,Baklava,2,6.36,12.72,2025-01-14 18:05:48
+278a5511-d4a5-4814-a971-53cb9c00f889,Tracy Montes,Austin,Falafel,1,7.68,7.68,2025-03-06 09:42:19
+0c01c331-0706-4df7-9d92-159e0b4617a2,Steven Stewart,Houston,Baklava,2,11.73,23.46,2025-01-09 01:09:28
+b4797141-5f99-4e30-bf70-2898eb452ce0,George Terrell,Austin,Shawarma,3,7.33,21.99,2025-01-17 01:48:45
+e7ab0275-d3d0-499f-90e1-b9f4a59614dd,Melinda Holt,Houston,Baklava,3,9.06,27.18,2025-04-08 02:00:58
+84498767-ed60-4e12-a30d-e4a241dbadb6,Natasha Robles,Houston,Gyro,4,12.87,51.48,2025-04-02 17:17:40
+e99e0d0e-34d6-4a8b-bf86-bcd27b661668,Thomas Foster,Austin,Salad,2,10.45,20.9,2025-01-30 18:53:02
+f345ccfb-7f2c-45b6-9599-63ffcbcafb70,Julie Cunningham,Houston,Shawarma,5,6.35,31.75,2025-01-07 23:39:29
+bdd6effd-0d7c-4ee2-b5db-49cf14b8d462,Travis Murphy,Austin,Salad,1,5.26,5.26,2025-03-20 18:32:51
+e3529c8a-93a5-4dc5-ab35-c68c48b48f2f,Anthony Black,Houston,Salad,3,10.23,30.69,2025-02-13 23:29:05
+b3ef7ee7-ea30-49b7-a41a-6405c68cef8a,Allison Thomas,Austin,Falafel,4,12.8,51.2,2025-02-18 11:07:24
+6a3c872c-3bc6-49bd-80ed-cc1ebfa2e537,Colton Valenzuela,Dallas,Falafel,2,5.87,11.74,2025-04-02 00:29:04
+be544b24-ff3f-4804-9c2c-ba0719a6d951,Derek Herrera,San Antonio,Falafel,3,7.45,22.35,2025-03-28 04:10:24
+5b45df0c-b4fe-4d4a-8728-c591f32d4fb2,Dr. Nancy Hood PhD,Dallas,Salad,5,11.18,55.9,2025-02-02 16:54:57
+5d4954da-d74c-48a0-a388-3142e31f81f8,Amy Austin,Dallas,Shawarma,1,7.68,7.68,2025-01-11 14:41:15
+e135ace2-a2df-41d1-a017-e4d5c44b83a7,Jeremy Leon,San Antonio,Gyro,4,6.08,24.32,2025-04-03 06:24:59
+214b1cdf-ead6-45b6-b8d9-5435e5a4c115,Nicole Crosby,Dallas,Falafel,2,11.99,23.98,2025-01-25 01:02:12
+d792a730-b17f-4fc4-b96f-a0b4c0b3980e,Lisa Hall,Dallas,Shawarma,2,8.9,17.8,2025-03-21 21:33:23
+2f659e11-a103-48c0-af43-26b06ccbdac2,Alan Braun,Austin,Gyro,5,12.85,64.25,2025-02-03 12:57:04
+7e4c66d0-6932-4ade-b523-6501471a0fdc,Susan Jackson,Houston,Baklava,3,6.09,18.27,2025-01-09 06:37:38
+d101142f-23a9-489f-9294-8080b9355970,Theresa Wilson,Austin,Gyro,4,12.08,48.32,2025-02-04 06:52:12
+b3f282ee-26c7-4b91-b77e-0e87bd2dee8d,Tiffany Mccarthy,Austin,Baklava,2,9.35,18.7,2025-02-25 00:26:56
+1a47895d-a2e1-4e2e-8058-5e6a34ed4917,Gregory Stanley,Dallas,Gyro,5,8.78,43.9,2025-04-01 17:48:56
+1f99d263-2ffa-4ba8-9a47-8cd63eb9b583,Rachel Sharp,Dallas,Falafel,5,11.02,55.1,2025-03-05 09:12:02
+8283169f-bc0e-4485-a748-bed4022d90d6,Jean Jordan,Dallas,Salad,3,7.63,22.89,2025-02-13 00:31:58
+cb4198fa-2923-4bb8-b3f8-382e8d34c311,Lawrence Palmer,San Antonio,Baklava,3,13.54,40.62,2025-01-25 13:52:39
+b421b96a-8f87-4947-970f-ace4632ef333,Matthew Cummings,Austin,Gyro,2,7.73,15.46,2025-02-08 01:37:34
+4412ff91-b1be-4be3-8d22-a67548110c42,Shannon Mullen,Houston,Falafel,2,5.91,11.82,2025-03-16 20:06:57
+3da6cd65-9660-4730-81cc-7f1cc2136eae,Kenneth Estrada,Dallas,Baklava,3,7.77,23.31,2025-03-14 00:03:13
+f7cf7976-2474-4fe4-b6d7-ea22efd162b3,Dale Conrad,San Antonio,Shawarma,3,14.39,43.17,2025-03-18 17:42:52
+a597c158-e024-475e-a6f3-6010dc498ee2,Geoffrey Jones,San Antonio,Falafel,2,13.16,26.32,2025-01-26 18:17:59
+53c5808d-1821-4568-9829-7ece53f26c4e,Lisa Porter,Houston,Gyro,1,11.86,11.86,2025-02-16 15:11:48
+1d5d9187-0439-4f2b-8321-1e700d20c111,Lindsey Lawrence,Houston,Gyro,3,10.54,31.62,2025-02-02 18:44:33
+1f998b06-8974-46a8-8142-bd2c94d3ee07,Ruben Brown,San Antonio,Baklava,5,5.71,28.55,2025-01-25 04:40:30
+581ec8f4-811b-4296-80ed-6b84df5df49b,Amanda Freeman,Austin,Gyro,5,8.01,40.05,2025-01-02 13:29:18
+9d9bba48-7d6f-440e-b59d-369751b49856,Dawn Payne,Houston,Falafel,4,6.98,27.92,2025-02-24 15:45:40
+c6e40f14-1bc6-4661-bb20-d9430d2076dc,Ronald Beltran,Dallas,Gyro,3,12.88,38.64,2025-03-01 23:45:48
+3138a8e0-73a8-466c-aa60-704a7f15f01a,Stephanie Kim,Dallas,Gyro,3,13.77,41.31,2025-03-25 02:37:24
+904c29cc-adca-423c-b717-fe7ca37b7407,Patricia Adams,Dallas,Salad,4,12.21,48.84,2025-01-15 15:28:31
+9f467fd5-c950-4b88-b802-bd479c1205ee,Robert Villegas,Houston,Falafel,5,10.56,52.8,2025-02-04 10:27:34
+3ab1b21e-eb2c-43fc-8953-01709b8de9ed,Shane Moore MD,Houston,Salad,1,13.26,13.26,2025-01-11 17:30:51
+e272d919-2593-473a-9536-ed112e61abaa,Crystal Hunt,Dallas,Salad,5,5.19,25.95,2025-02-05 13:09:02
+4ddd0330-32d3-4d4c-ba47-e834e4a9e8dc,Ashley Carter,Dallas,Baklava,3,11.03,33.09,2025-03-22 00:03:35
+164a0a0c-ace8-41de-963a-7a91dc5e0885,Ryan Chen,Houston,Shawarma,3,6.04,18.12,2025-04-07 19:40:31
+523b8772-b725-4bed-b83c-c917f88a9006,Scott Myers,Houston,Baklava,1,14.96,14.96,2025-02-23 00:20:58
+7583e0f7-6271-42e4-95f5-adcb3bedcdf3,Maria Bates,Dallas,Gyro,1,12.76,12.76,2025-01-20 04:57:37
+a61c4859-d3bb-44fc-9b69-4fada8f2376d,Alicia Spence,Austin,Baklava,5,6.93,34.65,2025-03-20 05:11:35
+c720e1e5-5df2-4e26-8291-ff87d0ed0169,Misty Smith,Austin,Salad,4,5.57,22.28,2025-03-26 01:24:28
+053cdfc5-3d08-4469-9f07-c1ffa22a78d5,Steven Lucas,Dallas,Shawarma,3,10.44,31.32,2025-01-04 07:33:54
+dd704431-a0d0-4853-b3bd-a08fcf77b0c9,Cheryl Hayes,Dallas,Gyro,5,5.69,28.45,2025-03-02 16:35:12
+f5489ade-4cfe-4b62-a622-c0bf28f11d77,Matthew Mendez,Houston,Falafel,5,9.68,48.4,2025-01-28 13:22:53
+ec91bfd2-67fd-4c2d-a82d-992442cb99e4,Jessica Hill,Austin,Falafel,3,9.21,27.63,2025-02-22 19:55:18
+b48a2c08-45ad-4862-9dd2-64b4b2ac9edb,Samantha Coffey,Dallas,Baklava,1,9.92,9.92,2025-02-21 07:12:30
+4e93e586-4bc4-4029-a38f-a40f96717bfa,Frank Sanchez,Houston,Salad,5,13.35,66.75,2025-03-25 06:57:12
+1b5778e9-f594-4197-b1ee-5da43ae65bfa,Brian Arroyo,Dallas,Baklava,5,7.32,36.6,2025-01-30 15:07:17
+5294d829-9488-490c-9ce4-dfff7b223f29,Jon Lee,Dallas,Shawarma,4,13.61,54.44,2025-01-20 11:10:35
+6a59679c-644e-44bb-ad56-f9ded149a028,Judy Flores,San Antonio,Gyro,1,11.63,11.63,2025-02-08 08:43:42
+d667eb19-3455-464d-b444-a670f5505835,Roberto Jones,Houston,Gyro,5,7.29,36.45,2025-03-31 20:33:05
+4ae49627-4e9f-4ef9-baf8-109c05747252,Nicholas Lewis,Austin,Baklava,4,9.04,36.16,2025-03-14 21:07:11
+4d1f8760-be84-44b0-a912-030b9c127d44,Michael Palmer,San Antonio,Falafel,5,5.64,28.2,2025-04-05 18:10:56
+1ee98239-81df-4f86-adc4-4d4ae2fe5e93,Joyce Warren,Austin,Salad,4,14.48,57.92,2025-02-04 21:42:02
+4cac3de2-6881-4a61-97b7-76389cd10a61,Marc Tran,Dallas,Baklava,5,5.32,26.6,2025-03-12 09:46:35
+0bd4d8d4-e4ad-48aa-b6d5-9e095a4360e3,Rebecca Garner,Austin,Salad,2,11.75,23.5,2025-03-25 20:52:33
+b6cefd1b-dfc3-460b-b84f-5d5eac35d3b8,Kristin Davis,Houston,Gyro,2,14.75,29.5,2025-02-21 16:49:46
+e2470a7a-8111-4fe4-9961-624b2e244c89,Kenneth Owen,San Antonio,Baklava,5,9.5,47.5,2025-02-10 13:58:54
+b305cde4-99f8-418c-8c15-ff0fe2e3dd88,Mr. Dennis Lopez,San Antonio,Baklava,2,5.0,10.0,2025-02-04 17:04:13
+3034aadd-cabb-40b0-ab57-70d3be274763,Anthony Wolfe,San Antonio,Baklava,2,6.64,13.28,2025-02-17 04:28:19
+8ac3b225-2764-44ea-b9a3-ab211ad267ec,Margaret Salazar,San Antonio,Shawarma,5,11.65,58.25,2025-02-27 23:09:07
+f7c635ca-8b62-4a88-90fe-627e9a7e11d8,Sharon Hayes,Austin,Falafel,5,7.15,35.75,2025-02-11 02:39:23
+2ad7e104-10cd-4e5c-adf0-c58776af55f7,Anthony Ross,Dallas,Shawarma,2,8.72,17.44,2025-02-02 14:17:09
+8f255c71-03ec-421b-a38e-0e3dc9156792,Aimee Pearson,San Antonio,Falafel,5,6.54,32.7,2025-03-13 16:24:49
+61a9e7d6-d725-4565-ad9e-77e2dd601d92,Bruce Olson,Austin,Falafel,3,8.47,25.41,2025-01-21 20:56:20
+1bf24bdf-e1a5-462d-9de0-e2991e4aab74,Gloria Williams,Dallas,Salad,2,6.41,12.82,2025-02-15 16:39:15
+af15c692-5c83-43bc-888e-b0e809af7c62,Terri Jones,Austin,Falafel,2,10.62,21.24,2025-03-17 17:20:06
+06f7a592-cdac-49b0-bedd-0dd5c238b1f7,Jeffrey Kirby,Dallas,Gyro,2,10.31,20.62,2025-02-19 17:35:40
+c3d36204-9ca4-4129-a6dd-485171cca709,Miguel Wade,San Antonio,Shawarma,1,8.32,8.32,2025-02-18 20:53:41
+9993d044-d99f-4725-8f79-28b6e6c5407c,Anthony Spence,San Antonio,Salad,3,8.21,24.63,2025-02-20 18:08:44
+77653845-7811-4d8c-a10c-8fc2ff7a1103,Vickie Wilson,San Antonio,Gyro,2,9.08,18.16,2025-01-25 03:33:07
+58835d19-cb6f-46ad-a796-5e100189df74,Ruth Smith,San Antonio,Shawarma,2,14.37,28.74,2025-01-23 09:22:25
+a0e8c8fc-689f-410c-b738-5727e32284fb,Jeffrey Malone,Houston,Shawarma,4,9.28,37.12,2025-02-28 14:30:59
+e0e0d270-23a7-4569-9ae1-f90f0ca9f0b1,Sarah Phillips,Austin,Salad,2,9.85,19.7,2025-03-27 08:49:00
+030b6bfc-e456-4680-bd13-80719a1355f1,Victor Pierce,Houston,Gyro,4,14.6,58.4,2025-02-15 09:35:34
+edac46f5-e10f-4597-8df3-11c25dcd6a50,Nicholas Johnson,Dallas,Gyro,1,9.48,9.48,2025-03-22 20:24:11
+726701a6-0b80-453d-a366-3f96ee8b194b,Tara Terry,Austin,Gyro,5,9.42,47.1,2025-01-04 16:32:36
+7f81e662-cba4-4264-b932-8ec66ce175f5,Danielle Small,Dallas,Gyro,5,7.63,38.15,2025-01-18 13:55:01
+2c8194a2-a87e-47dd-9780-9f871b73a34a,Ana Armstrong,Austin,Gyro,2,12.88,25.76,2025-03-06 15:40:04
+4341e3ea-c292-4796-83da-b043c49eed64,Julia Reid DDS,San Antonio,Baklava,4,14.18,56.72,2025-02-24 10:02:22
+4422ae94-dfd2-4114-b8df-74b97f73641e,Elizabeth Johnson,Dallas,Shawarma,1,11.84,11.84,2025-01-09 11:11:45
+7f768713-4347-42e1-94e7-02cbc1ec0113,Mr. Benjamin Stewart,Dallas,Shawarma,4,5.08,20.32,2025-01-19 08:26:26
+29fc3a3c-c90d-4c7f-8eae-a2e2dfdd8ca4,Kelly Conner,Houston,Shawarma,1,10.23,10.23,2025-01-08 11:00:39
+5c0e67c8-6588-47cc-93c1-02c2fb9bbb48,Amy Parker,Austin,Gyro,4,7.67,30.68,2025-01-24 20:36:38
+088cab02-8513-44bb-a7e9-0a927a276063,Lee Webb DDS,Dallas,Falafel,5,9.18,45.9,2025-03-14 12:31:00
+b3088e7b-aa75-46fc-837e-36a44faca0b8,Kimberly Hill,San Antonio,Baklava,5,7.21,36.05,2025-02-09 19:36:25
+a60530ba-277c-4a05-8ea4-b2e37e6e589b,Jacob Bradley,San Antonio,Gyro,4,8.4,33.6,2025-01-16 06:00:21
+3a016877-5f99-4fa7-8887-279d4942e0e8,Harold Martinez,Austin,Salad,2,13.01,26.02,2025-01-26 08:39:42
+8e4b6b7e-5f55-47bc-8946-db2dda5c97b1,Anthony Vaughan,San Antonio,Baklava,5,14.62,73.1,2025-02-24 01:12:30
+7e3380bf-f73d-4860-a503-1ae4ecc4f676,Andrew Chambers,Dallas,Falafel,2,5.52,11.04,2025-03-28 01:44:41
+e9bd74b6-c60b-4db7-9e4d-92cf6ff3208b,David Caldwell,Houston,Shawarma,2,14.85,29.7,2025-01-05 00:49:21
+f87016af-d8fd-4e5d-920c-a463f2a55f29,Kevin Garcia,Austin,Gyro,4,14.79,59.16,2025-03-16 06:46:26
+905b0947-1cff-4f12-9744-6c7c37b1a6b8,Zachary Harrison,San Antonio,Falafel,5,12.96,64.8,2025-03-27 06:05:11
+5da2dcb8-81d8-4590-810b-21bf23d70890,Allison Reyes,Houston,Gyro,4,8.79,35.16,2025-02-04 22:42:58
+3b11a3c5-a591-48c0-ae4e-bc188897a768,Melissa Lopez,Austin,Baklava,4,13.05,52.2,2025-03-30 19:19:11
+912d9602-b375-4383-9019-68aec1c93039,Christopher White,Dallas,Baklava,5,12.97,64.85,2025-03-16 05:24:47
+f6573022-9982-4078-8831-52642182d74c,Matthew Villegas,Dallas,Salad,5,13.02,65.1,2025-03-21 04:23:27
+2bd6bbd3-72b1-4912-bfb2-53bcf30ce7fa,William Williams,Dallas,Shawarma,3,8.7,26.1,2025-02-05 09:03:19
+289383a1-d4ea-4773-a8fe-aa114216fc1a,Jonathan Snyder,Austin,Shawarma,4,8.41,33.64,2025-02-07 03:01:56
+0dda3c9c-e2be-4f4a-8bb6-7d073335087b,Kelly Cardenas,Dallas,Salad,1,11.59,11.59,2025-01-20 01:08:32
+1c7a897a-a27c-4c9f-a887-e453aecf3054,Christopher Miller,Dallas,Salad,2,8.13,16.26,2025-02-14 03:32:42
+5d925b66-f76f-43fb-a0b0-4de43ef48480,Elizabeth Yu,Austin,Gyro,2,9.02,18.04,2025-01-28 04:42:44
+a11e9d61-211e-4cc9-95e9-270a8353ead7,Mark Kaiser,Houston,Gyro,2,12.56,25.12,2025-02-08 01:27:37
+b0df3501-db35-4ccb-b4b8-def937154f94,Nicole Davis,Dallas,Salad,3,10.82,32.46,2025-01-25 20:00:15
+5a5b154b-ba0b-4e9a-8c7b-9e5f5b694e79,Gordon Wright,Dallas,Gyro,5,5.98,29.9,2025-01-15 10:35:38
+eadcce63-b06a-4575-b7bf-3f6af22c8b70,Cynthia Mcintyre,San Antonio,Gyro,4,5.69,22.76,2025-01-29 05:37:33
+fbf332ad-4d78-4600-80d7-f84c6fc855b2,Jennifer Rivera,Austin,Gyro,4,8.49,33.96,2025-01-26 01:14:43
+188e5ad3-a52a-4264-8b3b-d25f53db4670,Mr. Thomas Chaney,Austin,Gyro,2,12.23,24.46,2025-03-09 13:14:33
+a3958682-1c73-4fff-a7ce-b6dda86af834,Laura Reilly,San Antonio,Shawarma,3,11.3,33.9,2025-03-26 06:01:50
+845494a3-e7fc-4289-9065-c61371748062,David Bailey,San Antonio,Falafel,2,10.31,20.62,2025-01-10 13:13:50
+ca3ec5d2-bf95-47a5-a57c-1cf464c4917a,Melvin Johnson,Houston,Shawarma,1,9.83,9.83,2025-01-08 21:09:19
+2aa56bbc-5db5-48bf-8b08-021546a4fe07,Ashley Armstrong,San Antonio,Baklava,3,13.21,39.63,2025-03-22 21:02:14
+3aa41682-2867-4fdd-92d2-25bd6c85397f,Travis Arnold,San Antonio,Falafel,1,7.82,7.82,2025-01-19 16:57:56
+ee8c7a4d-423c-4fe7-9b77-829d04c1ab3f,Adam Martinez,Dallas,Baklava,3,7.14,21.42,2025-03-05 10:52:13
+20477d02-ba3a-4b64-8265-ac13387e43b9,Elizabeth Mitchell,San Antonio,Shawarma,2,9.92,19.84,2025-03-08 14:25:35
+7c503dca-0980-49d5-ac4d-cbe8f0498d14,Timothy Alvarez,Houston,Gyro,5,5.58,27.9,2025-01-17 08:14:06
+080afb9c-406e-41c5-b50b-fe098b43f8d5,Michele Nguyen,San Antonio,Shawarma,5,10.11,50.55,2025-01-12 19:05:37
+99e1b38e-c9d0-48fa-8870-b10d348309e1,Martin Duncan,Dallas,Falafel,1,13.27,13.27,2025-03-28 06:16:37
+f164cfa7-7ec4-404f-a918-75ff6b2d8634,Lisa Harris,Dallas,Shawarma,5,5.7,28.5,2025-01-03 00:11:50
+216c1a2e-17f8-4a36-8755-4b1948a1a200,Jill Coleman,San Antonio,Baklava,4,9.96,39.84,2025-01-20 19:11:06
+0af20671-b2bf-4b8c-afe0-66d552041892,Karen Gibson,Dallas,Baklava,3,8.06,24.18,2025-02-04 05:31:58
+9a525f1b-c499-45d2-b3ac-05269f18863f,Paul Long,San Antonio,Falafel,5,7.44,37.2,2025-01-05 04:40:27
+76204463-7aa1-4fb4-bfa0-00739003b3f6,Laurie Wilkins,Houston,Salad,2,10.43,20.86,2025-01-01 13:06:13
+edfcb23b-873d-4b23-a5d6-99c24488a2ee,Jennifer Hill,Houston,Salad,1,10.15,10.15,2025-01-08 23:50:50
+51108ee3-ec8f-4e8f-a65e-d2db5c3db8d2,Jonathan Henderson,Austin,Falafel,4,6.88,27.52,2025-02-02 12:14:48
+67e7dfa0-af6c-42bf-af15-70d6ff796c0c,Amber Vazquez,Dallas,Shawarma,2,8.29,16.58,2025-03-07 19:10:55
+686d3c2d-c9bb-4e12-8724-9429b376cd8b,Alicia Rodriguez,Houston,Shawarma,1,9.66,9.66,2025-02-23 07:07:56
+a6091df5-6d54-479e-ac76-01cc93c6e087,Kerri Brown,Houston,Salad,4,10.63,42.52,2025-02-24 18:12:01
+538cafe7-5949-4398-82eb-92fd30547267,Rachel Mills,Houston,Gyro,5,14.04,70.2,2025-03-12 20:21:19
+47c4c9db-3a69-4779-936b-9c54d0ec0393,Ruth Torres,San Antonio,Salad,2,7.41,14.82,2025-02-18 18:42:15
+becf3f55-2a77-416f-be42-16c8a28483fb,Crystal Reyes,Austin,Baklava,4,11.76,47.04,2025-02-23 14:15:35
+479882fd-83f0-48dd-b5e5-fd0691044ac7,Nathan Rodriguez,Austin,Falafel,3,9.4,28.2,2025-03-16 23:57:53
+d664e46c-a828-41b3-9e06-828dc339aba0,Janice Smith,Austin,Gyro,2,14.08,28.16,2025-02-17 06:24:08
+2065216e-f85c-4a2f-85b6-664fabf5ecf3,Zachary Haley,San Antonio,Falafel,5,12.41,62.05,2025-03-30 11:11:48
+5d880d4c-9a5a-439f-af76-ead8471e9252,Justin Gonzalez,Houston,Gyro,1,14.84,14.84,2025-02-20 07:34:17
+f8a28377-343a-4473-9e21-3def28c1bb08,Rebecca Cross,Dallas,Baklava,1,7.48,7.48,2025-03-05 16:17:18
+43929422-b936-4cde-a1dc-ff9674f603a3,Jonathan Love,Dallas,Baklava,5,13.09,65.45,2025-03-21 21:13:08
+7a563311-c46d-446a-b99b-4759ab980843,Angela Phillips,Houston,Salad,3,12.69,38.07,2025-03-02 22:03:58
+24202f34-978f-41d5-a69c-9fddf3019651,Jason Wood,San Antonio,Shawarma,2,7.8,15.6,2025-03-09 07:12:49
+c9b845da-babe-4ad0-ab2a-003d3295ff33,Hayden Howard,San Antonio,Baklava,3,8.62,25.86,2025-01-06 13:15:00
+0c273a8e-e8e1-4c10-ab7e-6ff316bd445d,Dr. Kyle Simmons,San Antonio,Baklava,5,8.37,41.85,2025-01-14 10:34:03
+1a6cdd4d-3b63-499d-83ef-2c8922abc2d4,Bradley Taylor,San Antonio,Falafel,3,11.63,34.89,2025-01-15 17:30:44
+345b78ec-b933-4009-8aa8-a9e89a8aee72,Rebecca Pineda,Austin,Gyro,4,5.88,23.52,2025-02-01 14:54:41
+504c294b-a7ae-4c97-8b78-3996f084bedd,Jesse Figueroa,Austin,Gyro,5,9.63,48.15,2025-02-09 16:39:25
+d15a7787-60c4-41a3-b28d-03ede91e9a47,Andrew George,San Antonio,Falafel,4,7.64,30.56,2025-02-19 16:44:43
+53d7308c-052e-47c8-b8b6-b5af0422f01f,Ryan Hunt,San Antonio,Salad,2,10.28,20.56,2025-02-03 19:37:24
+8e2ebd1c-5324-4558-bbc3-cd5f572baa13,Katelyn Malone,Austin,Shawarma,5,14.96,74.8,2025-03-09 09:00:20
+7967acc3-006f-41be-80f8-2b573f206d9e,Jesse Greer,Austin,Baklava,5,7.26,36.3,2025-01-05 19:41:29
+c0caf22f-f090-4492-b689-b29245431d53,Mr. Thomas Coleman,Austin,Salad,2,12.41,24.82,2025-01-06 04:34:30
+67fe60d5-02ca-432e-8ef9-90d7956b23cb,Mrs. Jessica Bailey,San Antonio,Gyro,1,11.73,11.73,2025-04-02 11:24:20
+b6a52657-da13-48dd-81f3-6c8595c0a402,Randall Reid,Houston,Baklava,5,6.31,31.55,2025-01-18 08:58:14
+c596dd72-2aa7-4214-bfa1-958ba738405d,Gabrielle Gonzalez,Dallas,Baklava,3,13.55,40.65,2025-01-09 16:13:35
+78e5b4e9-4af1-42b0-bdab-5f303706c91f,Carol Rogers,San Antonio,Baklava,5,6.11,30.55,2025-03-13 21:01:15
+3ec6ec90-0733-4720-a910-831aa17cf569,Maria King,San Antonio,Falafel,4,13.41,53.64,2025-01-31 03:07:05
+9d37dd02-2c25-4326-a55e-face0d6bcf28,Andrew White,Dallas,Falafel,2,9.4,18.8,2025-01-09 15:53:54
+6f7ec939-004f-4865-a343-284578426a0f,Douglas Navarro,San Antonio,Gyro,4,7.72,30.88,2025-02-07 20:42:19
+92b26fa0-1bbf-4aed-9b5b-db2dbe6bd9d0,Joseph Wilson,Houston,Falafel,3,11.64,34.92,2025-02-25 17:03:50
+c8564e01-83d3-41bc-909b-aea495e3826c,Jodi Alexander,Austin,Salad,1,13.49,13.49,2025-02-01 17:59:19
+b79e4612-dc69-4402-a3a9-5a7ea3fac021,Thomas Day,San Antonio,Baklava,1,13.03,13.03,2025-01-25 09:36:22
+a9f2e7b5-8a05-4b88-b22a-ab246ce5fa64,Scott Brown,San Antonio,Salad,5,9.01,45.05,2025-02-16 22:32:16
+844b963d-ac5d-44eb-b2bf-33c88ebdc419,Kayla Rios,Dallas,Gyro,1,5.45,5.45,2025-03-12 14:05:41
+d78bf38a-649b-40a8-898c-347bfd9bee0f,Chloe Ross,San Antonio,Salad,5,8.79,43.95,2025-01-19 13:01:13
+1cda9227-f692-4adb-957b-c105694de2ca,Brandon Hernandez,Dallas,Shawarma,1,6.92,6.92,2025-02-15 17:05:01
+f141e0b4-cce1-4740-960f-0053b91dec2e,Danielle English,Dallas,Shawarma,5,10.66,53.3,2025-02-06 07:06:01
+6d70db01-ee4f-4227-85a8-83e654f4932a,Jill Gomez,San Antonio,Baklava,1,11.1,11.1,2025-01-26 22:19:38
+8b3fce7e-afb6-4525-8006-9a8d366279a5,Sherry Kennedy,Houston,Salad,5,10.42,52.1,2025-01-17 21:23:59
+5e12c7e7-11aa-41d3-b081-28f4291e723c,Michelle Collins,Austin,Shawarma,5,11.34,56.7,2025-01-24 12:57:34
+8b00b8ca-3424-4714-a126-356cd8aa5d86,Felicia Phillips,Dallas,Shawarma,5,9.37,46.85,2025-01-24 05:07:29
+c7afd0cc-65f1-4e6d-bc4a-ca47551e83ad,Brian Lopez,Houston,Baklava,2,13.16,26.32,2025-01-18 07:36:00
+16e3ee91-489f-4a08-879c-81b259b11af3,Mason Reed,Austin,Salad,2,8.37,16.74,2025-01-03 16:43:55
+ec5d28f9-e82d-4652-a2c2-fab45446dca1,Stephanie Smith,Dallas,Salad,3,14.82,44.46,2025-02-10 08:53:13
+da170f4e-2be2-4277-8327-e6d26d14755b,Kimberly Ochoa,Dallas,Shawarma,2,6.02,12.04,2025-02-17 05:44:08
+308e861c-5866-43d4-88ca-30bb0e374fa9,David Stevens,Houston,Shawarma,5,10.42,52.1,2025-03-28 22:02:40
+d7da9c63-bc63-4c33-9bd6-3d175a76faaf,Kevin Brown,Dallas,Falafel,2,10.48,20.96,2025-01-21 10:18:26
+8b88d9e3-afcd-409e-9b52-9b0287f62fd9,Kevin Scott,Dallas,Falafel,5,5.46,27.3,2025-01-26 13:14:04
+62407a44-5838-4f3e-889a-a382fea8a9fc,Robert Smith,Austin,Salad,2,10.95,21.9,2025-03-17 01:53:44
+09215fc9-52c1-436f-a264-589913a59a3d,Christina Barry,Houston,Shawarma,4,11.52,46.08,2025-02-28 23:13:25
+1a6c1c26-ee67-49f3-b33c-aa39007230fb,Danielle Sanders,Austin,Gyro,4,10.15,40.6,2025-01-25 13:33:59
+cb3115f0-efc2-4015-a581-2edf5e52753c,Julia Washington,Dallas,Falafel,3,6.6,19.8,2025-03-04 21:18:55
+816bca5b-615d-4d1f-89b2-4dff435a01c5,Daniel Johnson,San Antonio,Gyro,5,14.05,70.25,2025-01-31 08:55:26
+136aad77-e951-4c38-83e6-71364fc1df5c,Kevin Malone,San Antonio,Shawarma,4,12.22,48.88,2025-01-13 09:17:36
+88318e31-00e6-457d-b71e-2ee7b13ec34d,Elizabeth Guerrero,Dallas,Shawarma,1,11.95,11.95,2025-03-01 13:11:18
+3c8a0783-75fc-442f-ae13-e765713043b0,Jeffrey Patton,Dallas,Salad,5,10.33,51.65,2025-03-15 20:05:15
+ea765c5a-e045-4b99-813b-0c28d74c44c9,Jose Bush,Dallas,Baklava,4,5.87,23.48,2025-01-09 07:19:05
+78da3be4-9302-4233-a637-c1d88e4ea027,Edwin Petersen MD,Houston,Baklava,5,5.89,29.45,2025-01-26 12:53:21
+2540d2ca-8e7d-4a75-835f-f10a7c557cef,Anne Moore,Austin,Falafel,3,6.71,20.13,2025-03-20 05:03:28
+c448b68c-006c-42e6-b5fa-392022d6b5e1,Michael Smith,San Antonio,Falafel,4,13.25,53.0,2025-01-08 10:38:19
+1f0dd55c-9ee7-42f9-ba42-c653219dac83,John Burke,Houston,Baklava,2,9.32,18.64,2025-03-01 16:11:01
+ad5c69e2-01d7-4699-8650-dbbf7a7b7c38,Teresa Barnett,Houston,Salad,2,5.1,10.2,2025-01-19 06:28:22
+bebeadfd-5c40-4df6-bad7-dbe9bb773b10,Julie Phillips,San Antonio,Baklava,3,5.12,15.36,2025-01-02 17:03:02
+01e6dc6f-81aa-4dde-9e60-8b966827cc73,Matthew Bailey,San Antonio,Salad,3,14.03,42.09,2025-03-17 03:27:53
+5e762054-183f-4a41-abf9-5417ddfbd3d8,Matthew Kent,Dallas,Shawarma,3,12.2,36.6,2025-02-21 01:53:31
+f35796f5-64fb-4ac6-b19e-64779f963df3,Christine Valdez,San Antonio,Falafel,5,5.93,29.65,2025-02-10 10:26:31
+3931f027-6db4-47d1-9c96-e93f1e8e6dd5,Michael Porter,Dallas,Salad,3,8.89,26.67,2025-02-12 21:08:30
+8c03bae5-fce5-4031-aa8b-4b98fef475b7,Thomas Ellis,Houston,Shawarma,2,6.87,13.74,2025-02-27 19:19:50
+8a2a9238-9faa-47f3-b8c8-a489706f6e25,Daniel Brown,Houston,Salad,2,9.05,18.1,2025-02-11 00:29:46
+684017d1-e70e-4ea7-8b87-81122f64de65,Caitlin Trevino,San Antonio,Shawarma,4,13.21,52.84,2025-03-23 03:18:30
+7b06ae27-094a-454a-8e06-adf23f58b0ea,Dylan Lawson,Houston,Shawarma,2,6.1,12.2,2025-03-17 06:31:33
+76281a37-e43d-429c-83d8-f7d1f03ba6aa,Kristina Simon,Dallas,Falafel,5,13.39,66.95,2025-02-09 19:40:33
+f3f4536c-4677-47ca-a622-36eb00668b83,Evelyn Olsen,Austin,Falafel,1,8.07,8.07,2025-03-31 22:57:31
+5eb8da6a-6057-4f54-8968-534f6426089e,Carolyn Rowland DDS,Dallas,Salad,4,14.77,59.08,2025-02-12 11:31:53
+144cdda7-a5d7-4a5a-b4e1-4a2159b4a1a5,Molly Wilson,Dallas,Falafel,2,14.59,29.18,2025-02-23 11:02:08
+9b6a3e0f-2565-4ded-8be9-0bc039b81f9d,Tyler Gonzales,Houston,Shawarma,4,11.23,44.92,2025-02-20 15:41:51
+0215cf78-d9e3-4693-baec-450198fe4cee,Kathleen Thomas,San Antonio,Salad,5,12.5,62.5,2025-01-26 18:28:55
+1a4c713d-39a8-4474-986e-7b667c6d8eca,Laurie Clark,Austin,Salad,1,8.0,8.0,2025-01-25 20:21:03
+8c1512cf-d310-432a-952e-cd9562a22424,Donald Mason,Austin,Falafel,1,10.87,10.87,2025-02-09 07:32:13
+d187c019-1e8c-4bf3-848d-76940b5d7fab,Jesse Klein,Houston,Falafel,5,13.36,66.8,2025-01-17 01:23:42
+24ef0a3a-5dd3-439d-88de-9ae8bfd08655,Sarah Mendez,Dallas,Gyro,1,9.59,9.59,2025-02-16 06:58:56
+e6afdd91-e020-416a-b47e-3ebbb3f06370,Brianna Edwards,Dallas,Gyro,5,10.03,50.15,2025-01-21 21:36:38
+1ea96324-69ee-4915-b98d-c069622ec92c,Wanda Garcia,San Antonio,Falafel,3,13.24,39.72,2025-03-06 01:09:27
+e5f5f5bb-e667-4c37-8b64-e918acd8a4e0,Daniel Taylor,Houston,Salad,3,14.71,44.13,2025-03-25 01:07:04
+597c0ff5-01c2-4fe0-bfb8-e8ec21c12697,Stephanie Parks,San Antonio,Salad,3,7.91,23.73,2025-03-04 22:59:43
