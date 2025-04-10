@@ -108,3 +108,4 @@ if __name__ == "__main__":
 
 # Update the print statement to test the change
 print("ETL script executed successfully with the updated CI/CD pipeline!")
+print("Test Github auto deployment")
