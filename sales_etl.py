@@ -19,6 +19,9 @@ def extract_latest_csv(folder_path="data_lake/raw"):
     filepath = os.path.join(folder_path, latest_file)
     print(f"Extracting from: {filepath}")  # Show which file is being extracted
     return pd.read_csv(filepath)
+if __name__ == "__main__":
+    df = extract_latest_csv()
+    print(df.head())  # This will print the first few rows of the extracted data
 
 # === Transform ===
 def transform_data(df):
@@ -101,3 +104,7 @@ if __name__ == "__main__":
         load_to_postgres(df)
     except KeyError as e:
         print(f"Missing expected column: {e}")
+
+
+# Update the print statement to test the change
+print("ETL script executed successfully with the updated CI/CD pipeline!")
