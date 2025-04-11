@@ -15,9 +15,9 @@ jobs:
 
     - name: Setup SSH key
       run: |
-        echo "${{ secrets.EC2_SSH_KEY }}" > key.pem
-        chmod 600 key.pem
+        echo "${{ secrets.EC2_SSH_KEY }}" > etl-key.pem
+        chmod 600 etl-key.pem
 
     - name: Deploy to EC2
       run: |
-        ssh -o StrictHostKeyChecking=no -i key.pem ubuntu@18.226.34.255 'cd /home/ubuntu/restaurant_sales_etl_project && ./deploy.sh'
+        ssh -o StrictHostKeyChecking=no -i etl-key.pem ubuntu@18.226.34.255 'cd /home/ubuntu/restaurant_sales_etl_project && ./deploy.sh'
