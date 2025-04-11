@@ -80,6 +80,75 @@ After running the sales_etl.py script, the following files will be generated:
 	•	sales_in_2025.csv – All sales data from 2025.
 
 
+## 🚀 Auto Deployment with GitHub Actions
+
+This project uses **GitHub Actions** to automatically deploy updates to an EC2 instance when changes are pushed to the `main` branch.
+
+### How It Works
+
+1. The **GitHub Actions workflow** (`.github/workflows/deploy.yml`) is triggered on every push to the `main` branch.
+2. It:
+   - Checks out the latest code
+   - Sets up an SSH connection using a secure private key stored in GitHub Secrets (`ETL_KEY`)
+   - Connects to your EC2 instance and runs the `deploy.sh` script
+
+### `deploy.sh`
+
+### ```bash
+!/bin/bash
+echo "Activating virtual environment..."
+source venv/bin/activate
+echo "Installing requirements..."
+pip install -r requirements.txt
+echo "Running ETL script..."
+python3 sales_etl.py   
+
+This script:
+	•	Activates your Python virtual environment
+	•	Installs all required packages
+	•	Executes your ETL pipeline via sales_etl.py
+
+GitHub Actions Workflow
+
+name: Deploy Project
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup SSH key
+      run: |
+        echo "${{ secrets.ETL_KEY }}" > $HOME/etl-key.pem
+        chmod 600 $HOME/etl-key.pem
+
+    - name: Deploy to EC2
+      run: |
+        ssh -o StrictHostKeyChecking=no -i $HOME/etl-key.pem ubuntu@18.226.34.255 'cd /home/ubuntu/restaurant_sales_etl_project && ./deploy.sh'  
+
+Security Notes
+	•	The private SSH key (etl-key.pem) is never committed to the repo and is stored securely as a GitHub Secret named ETL_KEY
+	•	The .gitignore ensures .pem files are never tracked
+	•	SSH access is limited and secure using key-based authentication
+
+📊 Visual Outputs & Results
+etl_script_extract_transform_load.png
+postgres_query_output_full_view.png
+sales_by_product_query_result.png
+sales_by_region_query_result.png
+sales_in_2025_csv.png
+top_5_customers_by_spending_scv.png
+total_sales_by_product_csv.png
+total_sales_by_region.png
+
   License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
