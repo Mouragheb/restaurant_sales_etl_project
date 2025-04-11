@@ -1,4 +1,5 @@
 venv/
 *.pyc
 __pycache__/
-.envetl-key.pem
+.env
+etl-key.pem
